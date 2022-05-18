@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f606e13a-7966-43b2-8d14-8ecb329904cc" name="Changes" comment="Changes">
+    <list default="true" id="f606e13a-7966-43b2-8d14-8ecb329904cc" name="Changes" comment="Changes - 반가워요 추가">
+      <change afterPath="$PROJECT_DIR$/src/day01/Comment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day01/Variable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day01/varScope.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hello.java" afterDir="false" />
     </list>
@@ -33,10 +37,23 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Java"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="애플리케이션.Variable">
+    <configuration name="Comment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day01.Comment" />
+      <module name="java_study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hello" />
       <module name="java_study" />
@@ -44,6 +61,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Variable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day01.Variable" />
+      <module name="java_study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="애플리케이션.Variable" />
+        <item itemvalue="애플리케이션.Comment" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -54,6 +90,14 @@
       <option name="presentableId" value="Default" />
       <updated>1652854756061</updated>
     </task>
+    <task id="LOCAL-00001" summary="Changes - 반가워요 추가">
+      <created>1652857446203</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652857446203</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -66,6 +110,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changes - 반가워요 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes - 반가워요 추가" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
