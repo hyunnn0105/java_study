@@ -14,6 +14,7 @@ public class varScope {
         // 선언과 대입을 분할하기
         // int num3;
 
+        /*
         if (ture) {
             // int num1 = 300; - 하위블럭에서 상위블럭과 이름이 동일한 함수생성불가
             int num3 = num1 + num2;
@@ -22,6 +23,8 @@ public class varScope {
         //System.out.println("num3 = " + num3); - 지역변수라서 사용불가
         int num4 = num1 + num2;
         int num3 = 300; // 생성가능
+
+        */
 
         /*
             - camel case: phoneNumber (Java, JavaScript)

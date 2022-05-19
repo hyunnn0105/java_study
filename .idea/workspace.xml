@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f606e13a-7966-43b2-8d14-8ecb329904cc" name="Changes" comment="220518 varscope 및 블록레벨스코프 정리 + 단축어" />
+    <list default="true" id="f606e13a-7966-43b2-8d14-8ecb329904cc" name="Changes" comment="220518 varscope 및 블록레벨스코프 정리 + 단축어">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coding01/cap1/Bj1000.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coding01/cap1/Bj1001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coding01/cap1/Bj1008.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coding01/cap1/Bj10718.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coding01/cap1/Bj10998.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coding01/cap1/Bj25083.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coding01/cap1/Bj2557.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coding01/cap1/bj10171.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/AssignmentOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/BitOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/Casting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/Casting2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/Casting3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/ConditionalOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/DataType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/InputQuiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/LogicalOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/RandomExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/StdOutput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/stdInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day01/varScope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day01/varScope.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +41,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/day2/AssignmentOperator.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/day2/BitOperator.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/day2/Casting.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/day2/Casting2.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/day2/Casting3.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/day2/ConditionalOperator.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/day2/DataType.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/day2/LogicalOperator.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -30,16 +64,27 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Java"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.색 구성표 글꼴"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/새 스크래치 파일": [
+      "Markdown"
+    ]
   }
 }]]></component>
-  <component name="RunManager" selected="애플리케이션.Variable">
-    <configuration name="Comment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day01.Comment" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="coding01.cap1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="애플리케이션.Bj1008">
+    <configuration name="Bj1000" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="coding01.cap1.Bj1000" />
       <module name="java_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day01.*" />
+          <option name="PATTERN" value="coding01.cap1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -47,19 +92,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hello" />
+    <configuration name="Bj1008" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="coding01.cap1.Bj1008" />
       <module name="java_study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="coding01.cap1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Variable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day01.Variable" />
+    <configuration name="Bj25083" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="coding01.cap1.Bj25083" />
       <module name="java_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day01.*" />
+          <option name="PATTERN" value="coding01.cap1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InputQuiz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day2.InputQuiz" />
+      <module name="java_study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="coding01.cap1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bj10171" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="coding01.cap1.bj10171" />
+      <module name="java_study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="coding01.cap1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,8 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.Variable" />
-        <item itemvalue="애플리케이션.Comment" />
+        <item itemvalue="애플리케이션.Bj1008" />
+        <item itemvalue="애플리케이션.Bj1000" />
+        <item itemvalue="애플리케이션.Bj25083" />
+        <item itemvalue="애플리케이션.bj10171" />
+        <item itemvalue="애플리케이션.day2.InputQuiz" />
       </list>
     </recent_temporary>
   </component>
