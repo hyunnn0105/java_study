@@ -6,6 +6,6 @@ public class bj10171 {
         System.out.println(" )  ( ')");
         System.out.println("(  /  )");
         System.out.println(" \\(__)|");
-
+        // 성공
     }
 }

@@ -2,12 +2,12 @@ package coding01.cap1;
 
 import java.util.Scanner;
 
-public class Bj1001 {
+public class Bj10926 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int A = sc.nextInt();
-        int B = sc.nextInt();
-        System.out.print(A-B);
+
+        String A = sc.next();
+        System.out.println(A + "??!");
+        // 성공
     }
-    //성공
 }

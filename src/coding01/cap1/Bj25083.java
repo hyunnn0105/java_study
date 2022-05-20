@@ -8,5 +8,6 @@ public class Bj25083 {
         System.out.println("   `~\\/");
         System.out.println("      |");
         System.out.println("      |");
+        // 성공
     }
 }

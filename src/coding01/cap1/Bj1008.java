@@ -8,5 +8,6 @@ public class Bj1008 {
         double A = sc.nextInt();
         double B = sc.nextInt();
         System.out.print(A/B);
+        // 성공
     }
 }

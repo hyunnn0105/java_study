@@ -8,5 +8,6 @@ public class Bj10998 {
         int A = sc.nextInt();
         int B = sc.nextInt();
         System.out.print(A*B);
+        // 성공
     }
 }
