@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f606e13a-7966-43b2-8d14-8ecb329904cc" name="Changes" comment="220519">
-      <change afterPath="$PROJECT_DIR$/src/coding01/chap03Loop/Bj11022ab8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/coding01/chap03Loop/Bj11021ab7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding01/chap03Loop/Bj11021ab7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/coding01/chap03Loop/Bj8393hap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding01/chap03Loop/Bj8393hap.java" afterDir="false" />
-    </list>
+    <list default="true" id="f606e13a-7966-43b2-8d14-8ecb329904cc" name="Changes" comment="220522" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +47,7 @@
     "project.structure.last.edited": "프로젝트",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.editor"
+    "settings.editor.selected.configurable": "preferences.general"
   },
   "keyToStringList": {
     "com.intellij.ide.scratch.ScratchImplUtil$2/새 스크래치 파일": [
@@ -180,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652952101202</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="220522">
+      <created>1653229890082</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1653229890082</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -199,7 +201,8 @@
     <MESSAGE value="220518 varscope 및 블록레벨스코프 정리 + 단축어" />
     <MESSAGE value="220519 java및 백준알고리즘" />
     <MESSAGE value="220519" />
-    <option name="LAST_COMMIT_MESSAGE" value="220519" />
+    <MESSAGE value="220522" />
+    <option name="LAST_COMMIT_MESSAGE" value="220522" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
