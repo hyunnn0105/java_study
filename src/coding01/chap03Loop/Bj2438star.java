@@ -2,12 +2,21 @@ package coding01.chap03Loop;
 
 import java.util.Scanner;
 
-public class Bj2483star {
+public class Bj2438star {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
-        int i = 0;
+        String star = "*";
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; i + 1 > j; j++) {
+                System.out.print("*");
+            }
+            System.out.println("");
+
+        }
+
     }
+}
         /*
             package codingtest.chap03;
 
@@ -27,4 +36,3 @@ public class Bj2483star {
                 }
 
          */
-    }
