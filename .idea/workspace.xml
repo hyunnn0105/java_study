@@ -1,41 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="f606e13a-7966-43b2-8d14-8ecb329904cc" name="Changes" comment="220519">
-      <change afterPath="$PROJECT_DIR$/src/coding01/cap1/Bj10430.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding01/cap1/Bj10869.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding01/cap1/Bj10926.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding01/cap1/Bj18108.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding01/cap1/Bj2588.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding01/cap2/Bj1330.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding01/cap2/Bj14681.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding01/cap2/Bj2480not.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding01/cap2/Bj2525not.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding01/cap2/Bj2753.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding01/cap2/Bj2884not.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding01/cap2/Bj9498.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding01/chap03Loop/Bj10950ab3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding01/chap03Loop/Bj11021ab7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding01/chap03Loop/Bj2439star2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding01/chap03Loop/Bj2483star.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding01/chap03Loop/Bj2739Gugudan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding01/chap03Loop/Bj2741n.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding01/chap03Loop/Bj2742n.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding01/chap03Loop/Bj8393hap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day03/Loop01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day03/Loop03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day03/Loop2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day03/SwitchExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day03/SwitchQuiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coding01/chap03Loop/Bj11022ab8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/coding01/cap1/Bj1000.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding01/cap1/Bj1000.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/coding01/cap1/Bj1001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding01/cap1/Bj1001.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/coding01/cap1/Bj1008.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding01/cap1/Bj1008.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/coding01/cap1/Bj10718.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding01/cap1/Bj10718.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/coding01/cap1/Bj10998.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding01/cap1/Bj10998.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/coding01/cap1/Bj25083.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding01/cap1/Bj25083.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/coding01/cap1/Bj2557.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding01/cap1/Bj2557.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/coding01/cap1/bj10171.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding01/cap1/bj10171.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coding01/chap03Loop/Bj11021ab7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding01/chap03Loop/Bj11021ab7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coding01/chap03Loop/Bj8393hap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding01/chap03Loop/Bj8393hap.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +52,7 @@
     "project.structure.last.edited": "프로젝트",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.색 구성표 글꼴"
+    "settings.editor.selected.configurable": "preferences.editor"
   },
   "keyToStringList": {
     "com.intellij.ide.scratch.ScratchImplUtil$2/새 스크래치 파일": [
@@ -88,12 +61,15 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="coding01.chap03Loop" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="coding01.chap03Loop" />
       <recent name="coding01.cap1" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.Bj2439star2">
+  <component name="RunManager" selected="Application.Bj11022ab8">
     <configuration name="Bj11021ab7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="coding01.chap03Loop.Bj11021ab7" />
       <module name="java_study" />
@@ -107,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bj2439star2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="coding01.chap03Loop.Bj2439star2" />
+    <configuration name="Bj11022ab8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="coding01.chap03Loop.Bj11022ab8" />
       <module name="java_study" />
       <extension name="coverage">
         <pattern>
@@ -161,11 +137,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.Bj2439star2" />
-        <item itemvalue="애플리케이션.Bj2483star" />
-        <item itemvalue="애플리케이션.Bj11021ab7" />
-        <item itemvalue="애플리케이션.Bj2741n" />
-        <item itemvalue="애플리케이션.Bj8393hap" />
+        <item itemvalue="Application.Bj11022ab8" />
+        <item itemvalue="Application.Bj11021ab7" />
+        <item itemvalue="Application.Bj8393hap" />
       </list>
     </recent_temporary>
   </component>
