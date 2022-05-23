@@ -22,7 +22,7 @@ public class ArrayDelete {
 
         // pop - 삭제
         int[] temp = new int[arr.length -1];
-        for (int i = 0; i < arr.length-1; i++) {
+        for (int i = 0; i < temp.length; i++) {
             temp[i] = arr[i+1];
         }
         arr = temp; temp = null;

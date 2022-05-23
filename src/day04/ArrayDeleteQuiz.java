@@ -8,14 +8,17 @@ public class ArrayDeleteQuiz {
         Scanner sc = new Scanner(System.in);
 
         String[] nickName = {"영웅재중", "최강창민", "시아준수", "믹키유천", "유노윤호"};
-        System.out.println("- 삭제할 학생들의 별명을 입력하세요.");
-        System.out.print("> ");
-        String targetNickName = sc.nextLine();
+
 
 
         int index = -1;
         //입력받은 다음에 별명 배열에 있는지 확인
         while (true) {
+            // while문안에 입력받는걸 설정 안해서 안돌아감
+            System.out.println("- 삭제할 학생들의 별명을 입력하세요.");
+            System.out.print("> ");
+            String targetNickName = sc.nextLine();
+            
             for (int i = 0; i < nickName.length; i++) {
                 if (targetNickName.equals(nickName[i])){
                     index = i;
@@ -24,22 +27,26 @@ public class ArrayDeleteQuiz {
             }
 
             if (index != -1) {
+                System.out.println(nickName[index] + "의 별명을 삭제합니다.");
                 // 삭제할 인덱스 골라내기? - 뒷 사람이 땡기기
-                int delIndex = index;
-                for (int i = delIndex; i < nickName.length-1; i++) {
+                for (int i = index; i < nickName.length-1; i++) {
                     nickName[i] = nickName[i+1];
                 }
                 System.out.println(Arrays.toString(nickName));
 
 
-                 // 있으면 새로운 배열 만들기
-                String[] saveArr = new String[nickName.length - 1];
-                for (int i = 0; i < saveArr.length; i++) {
-                    saveArr[i] = nickName[i+1];
+                //있으면 새로운 배열 만들기
+                String[] temp = new String[nickName.length - 1];
+                for (int i = 0; i < temp.length; i++) {
+                    temp[i] = nickName[i];
                 }
-
+                nickName = temp;
+                temp=null;
+                System.out.println(Arrays.toString(nickName));
+                sc.close();
+                break;
             } else {
-                System.out.print( "해당별명( " +targetNickName +" )은 존재하지 않습니다.");
+                System.out.print( "해당별명( " + targetNickName +" )은 존재하지 않습니다.");
             }
         }
 
