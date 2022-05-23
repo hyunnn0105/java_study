@@ -1,41 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f606e13a-7966-43b2-8d14-8ecb329904cc" name="Changes" comment="220519">
-      <change afterPath="$PROJECT_DIR$/src/coding01/cap1/Bj10430.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding01/cap1/Bj10869.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding01/cap1/Bj10926.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding01/cap1/Bj18108.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding01/cap1/Bj2588.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding01/cap2/Bj1330.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding01/cap2/Bj14681.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding01/cap2/Bj2480not.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding01/cap2/Bj2525not.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding01/cap2/Bj2753.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding01/cap2/Bj2884not.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding01/cap2/Bj9498.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding01/chap03Loop/Bj10950ab3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding01/chap03Loop/Bj11021ab7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding01/chap03Loop/Bj2439star2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding01/chap03Loop/Bj2483star.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding01/chap03Loop/Bj2739Gugudan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding01/chap03Loop/Bj2741n.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding01/chap03Loop/Bj2742n.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding01/chap03Loop/Bj8393hap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day03/Loop01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day03/Loop03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day03/Loop2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day03/SwitchExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day03/SwitchQuiz.java" afterDir="false" />
+    <list default="true" id="f606e13a-7966-43b2-8d14-8ecb329904cc" name="Changes" comment="220520 반복문">
+      <change afterPath="$PROJECT_DIR$/src/day04/ArrayBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/ArrayCopy__.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/ArrayDelete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/ArrayDeleteQuiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/ArrayInsert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/ArrayPop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/ArrayPush.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/ArrayPushQuiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/ArrayReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/ArraySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/ArraySearchQuiz.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/coding01/cap1/Bj1000.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding01/cap1/Bj1000.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/coding01/cap1/Bj1001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding01/cap1/Bj1001.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/coding01/cap1/Bj1008.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding01/cap1/Bj1008.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/coding01/cap1/Bj10718.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding01/cap1/Bj10718.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/coding01/cap1/Bj10998.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding01/cap1/Bj10998.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/coding01/cap1/Bj25083.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding01/cap1/Bj25083.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/coding01/cap1/Bj2557.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding01/cap1/Bj2557.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/coding01/cap1/bj10171.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding01/cap1/bj10171.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coding01/chap03Loop/Bj2439star2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding01/chap03Loop/Bj2439star2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,35 +50,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "project.structure.last.edited": "프로젝트",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.색 구성표 글꼴"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;프로젝트&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/새 스크래치 파일": [
-      "Markdown"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/새 스크래치 파일&quot;: [
+      &quot;Markdown&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="coding01.chap03Loop" />
       <recent name="coding01.cap1" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.Bj2439star2">
-    <configuration name="Bj11021ab7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="coding01.chap03Loop.Bj11021ab7" />
+  <component name="RunManager" selected="애플리케이션.ArrayDeleteQuiz">
+    <configuration name="ArrayDelete" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day04.ArrayDelete" />
       <module name="java_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="coding01.chap03Loop.*" />
+          <option name="PATTERN" value="day04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bj2439star2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="coding01.chap03Loop.Bj2439star2" />
+    <configuration name="ArrayDeleteQuiz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day04.ArrayDeleteQuiz" />
       <module name="java_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="coding01.chap03Loop.*" />
+          <option name="PATTERN" value="day04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bj2483star" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="coding01.chap03Loop.Bj2483star" />
+    <configuration name="ArrayInsert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day04.ArrayInsert" />
       <module name="java_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="coding01.chap03Loop.*" />
+          <option name="PATTERN" value="day04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bj2741n" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="coding01.chap03Loop.Bj2741n" />
+    <configuration name="ArrayReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day04.ArrayReverse" />
       <module name="java_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="coding01.chap03Loop.*" />
+          <option name="PATTERN" value="day04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bj8393hap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="coding01.chap03Loop.Bj8393hap" />
+    <configuration name="ArraySearchQuiz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day04.ArraySearchQuiz" />
       <module name="java_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="coding01.chap03Loop.*" />
+          <option name="PATTERN" value="day04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.Bj2439star2" />
-        <item itemvalue="애플리케이션.Bj2483star" />
-        <item itemvalue="애플리케이션.Bj11021ab7" />
-        <item itemvalue="애플리케이션.Bj2741n" />
-        <item itemvalue="애플리케이션.Bj8393hap" />
+        <item itemvalue="애플리케이션.ArrayDeleteQuiz" />
+        <item itemvalue="애플리케이션.ArrayDelete" />
+        <item itemvalue="애플리케이션.ArraySearchQuiz" />
+        <item itemvalue="애플리케이션.ArrayInsert" />
+        <item itemvalue="애플리케이션.ArrayReverse" />
       </list>
     </recent_temporary>
   </component>
@@ -206,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652952101202</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="220520 반복문">
+      <created>1653038494088</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1653038494088</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -225,7 +211,8 @@
     <MESSAGE value="220518 varscope 및 블록레벨스코프 정리 + 단축어" />
     <MESSAGE value="220519 java및 백준알고리즘" />
     <MESSAGE value="220519" />
-    <option name="LAST_COMMIT_MESSAGE" value="220519" />
+    <MESSAGE value="220520 반복문" />
+    <option name="LAST_COMMIT_MESSAGE" value="220520 반복문" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
