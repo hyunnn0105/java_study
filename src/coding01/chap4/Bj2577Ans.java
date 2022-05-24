@@ -1,17 +1,20 @@
 package coding01.chap4;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
-public class Bj2577 {
+public class Bj2577Ans {
     public static void main(String[] args) {
+
         Scanner sc = new Scanner(System.in);
+
+        // 세 개의 정수 입력
         int A = sc.nextInt();
         int B = sc.nextInt();
         int C = sc.nextInt();
         sc.close();
-        // a*b*c = num
-        int multi = A*B*C;
+
+        // 세 수의 곱
+        int multi = A * B * C;
 
         // 0부터 9까지의 등장 횟수를 카운팅해서 저장할 배열
         int[] countArr = new int[10];
