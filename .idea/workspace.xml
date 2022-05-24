@@ -1,20 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f606e13a-7966-43b2-8d14-8ecb329904cc" name="Changes" comment="220520 반복문">
-      <change afterPath="$PROJECT_DIR$/src/day04/ArrayBasic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day04/ArrayCopy__.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day04/ArrayDelete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day04/ArrayDeleteQuiz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day04/ArrayInsert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day04/ArrayPop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day04/ArrayPush.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day04/ArrayPushQuiz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day04/ArrayReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day04/ArraySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day04/ArraySearchQuiz.java" afterDir="false" />
+    <list default="true" id="f606e13a-7966-43b2-8d14-8ecb329904cc" name="Changes" comment="220520 배열 추가/삭제/제거.탐색">
+      <change afterPath="$PROJECT_DIR$/src/coding01/chap4/Bj10818.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coding01/chap4/Bj2562.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coding01/chap4/Bj2577.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coding01/chap4/Bj3052.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coding01/chap4/Bj3052Ans.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coding01/chap4/Bj4344.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coding01/chap4/Bj8958oxquiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coding01/chap4/bj1546.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03/Note220520.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/Note220523.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day05/Note220524.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day05/cap01matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day05/cap02ScannerProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day05/roulette.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/Note220519.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/coding01/chap03Loop/Bj2439star2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding01/chap03Loop/Bj2439star2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,18 +70,21 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="coding01.chap4" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="coding01.chap03Loop" />
       <recent name="coding01.cap1" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.ArrayDeleteQuiz">
-    <configuration name="ArrayDelete" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day04.ArrayDelete" />
+  <component name="RunManager" selected="애플리케이션.roulette">
+    <configuration name="Bj4344" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="coding01.chap4.Bj4344" />
       <module name="java_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day04.*" />
+          <option name="PATTERN" value="coding01.chap4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayDeleteQuiz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day04.ArrayDeleteQuiz" />
+    <configuration name="Bj4344ans" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="coding01.chap4.Bj4344ans" />
       <module name="java_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day04.*" />
+          <option name="PATTERN" value="coding01.chap4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayInsert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day04.ArrayInsert" />
+    <configuration name="cap01matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day05.cap01matrix" />
       <module name="java_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day04.*" />
+          <option name="PATTERN" value="day05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day04.ArrayReverse" />
+    <configuration name="cap02ScannerProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day05.cap02ScannerProblem" />
       <module name="java_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day04.*" />
+          <option name="PATTERN" value="day05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArraySearchQuiz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day04.ArraySearchQuiz" />
+    <configuration name="roulette" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day05.roulette" />
       <module name="java_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day04.*" />
+          <option name="PATTERN" value="day05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.ArrayDeleteQuiz" />
-        <item itemvalue="애플리케이션.ArrayDelete" />
-        <item itemvalue="애플리케이션.ArraySearchQuiz" />
-        <item itemvalue="애플리케이션.ArrayInsert" />
-        <item itemvalue="애플리케이션.ArrayReverse" />
+        <item itemvalue="애플리케이션.roulette" />
+        <item itemvalue="애플리케이션.Bj4344" />
+        <item itemvalue="애플리케이션.Bj4344ans" />
+        <item itemvalue="애플리케이션.cap02ScannerProblem" />
+        <item itemvalue="애플리케이션.cap01matrix" />
       </list>
     </recent_temporary>
   </component>
