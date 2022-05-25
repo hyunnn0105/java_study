@@ -31,8 +31,7 @@ public class roulette {
             // enter 시 빵야
             int index = 1;
             // 총알있 t / 총알없 f
-            // 랜덤으로 배열 위치 바꾸기~~
-            // 아이 돌아갈때 j도 같이 돌리기
+            // 랜덤으로 배열 위치 바꾸기??
             for (int j = 0; j < bbang.length; j++) {
                 if (bbang[j] == 1){
                     // System.out.println("hello");

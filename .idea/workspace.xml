@@ -1,23 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f606e13a-7966-43b2-8d14-8ecb329904cc" name="Changes" comment="220520 배열 추가/삭제/제거.탐색">
-      <change afterPath="$PROJECT_DIR$/src/coding01/chap4/Bj10818.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding01/chap4/Bj2562.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding01/chap4/Bj2577.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding01/chap4/Bj3052.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding01/chap4/Bj3052Ans.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding01/chap4/Bj4344.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding01/chap4/Bj8958oxquiz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding01/chap4/bj1546.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day03/Note220520.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day04/Note220523.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day05/Note220524.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day05/cap01matrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day05/cap02ScannerProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day05/roulette.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2/Note220519.md" afterDir="false" />
+    <list default="true" id="f606e13a-7966-43b2-8d14-8ecb329904cc" name="Changes" comment="220524 cap04 + 배열">
+      <change afterPath="$PROJECT_DIR$/src/coding01/chap05/Bj1065.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coding01/chap05/Bj1065Ans.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coding01/chap05/Bj15596.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coding01/chap05/Bj4673.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coding01/chap05/Bj4673Ans.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day05/rouletteAns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day06/MethodPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day06/Note220525.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day06/cap01MethodBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day06/cap03methodReturn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day06/cap2MethodParam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day06/heloo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day05/roulette.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day05/roulette.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,17 +72,19 @@
       <recent name="coding01.chap4" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="coding01.chap05" />
+      <recent name="day05" />
       <recent name="coding01.chap03Loop" />
       <recent name="coding01.cap1" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.roulette">
-    <configuration name="Bj4344" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="coding01.chap4.Bj4344" />
+  <component name="RunManager" selected="애플리케이션.Bj4673">
+    <configuration name="Bj15596" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="coding01.chap05.Bj15596" />
       <module name="java_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="coding01.chap4.*" />
+          <option name="PATTERN" value="coding01.chap05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bj4344ans" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="coding01.chap4.Bj4344ans" />
+    <configuration name="Bj4673" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="coding01.chap05.Bj4673" />
       <module name="java_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="coding01.chap4.*" />
+          <option name="PATTERN" value="coding01.chap05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="cap01matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day05.cap01matrix" />
+    <configuration name="Bj4673Ans" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="coding01.chap05.Bj4673Ans" />
       <module name="java_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day05.*" />
+          <option name="PATTERN" value="coding01.chap05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="cap02ScannerProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day05.cap02ScannerProblem" />
+    <configuration name="MethodPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day06.MethodPractice" />
       <module name="java_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day05.*" />
+          <option name="PATTERN" value="day06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="roulette" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day05.roulette" />
+    <configuration name="cap01MethodBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day06.cap01MethodBasic" />
       <module name="java_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day05.*" />
+          <option name="PATTERN" value="day06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.roulette" />
-        <item itemvalue="애플리케이션.Bj4344" />
-        <item itemvalue="애플리케이션.Bj4344ans" />
-        <item itemvalue="애플리케이션.cap02ScannerProblem" />
-        <item itemvalue="애플리케이션.cap01matrix" />
+        <item itemvalue="애플리케이션.Bj4673" />
+        <item itemvalue="애플리케이션.Bj4673Ans" />
+        <item itemvalue="애플리케이션.coding01.chap05.Bj15596" />
+        <item itemvalue="애플리케이션.cap01MethodBasic" />
+        <item itemvalue="애플리케이션.MethodPractice" />
       </list>
     </recent_temporary>
   </component>
@@ -198,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653038494088</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="220524 cap04 + 배열">
+      <created>1653384036902</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1653384036902</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -218,7 +225,8 @@
     <MESSAGE value="220519 java및 백준알고리즘" />
     <MESSAGE value="220519" />
     <MESSAGE value="220520 반복문" />
-    <option name="LAST_COMMIT_MESSAGE" value="220520 반복문" />
+    <MESSAGE value="220524 cap04 + 배열" />
+    <option name="LAST_COMMIT_MESSAGE" value="220524 cap04 + 배열" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
