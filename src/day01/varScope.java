@@ -30,5 +30,5 @@ public class varScope {
             - camel case: phoneNumber (Java, JavaScript)
             상수?? NUMBER_A 이런거 사용할때 언더바 사용
         */
-    }//end main
+    }//end day07object.PhoneFactory.main
 }// class

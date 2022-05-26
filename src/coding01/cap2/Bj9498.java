@@ -31,7 +31,7 @@ public class Bj9498 {
     import java.util.Scanner;
 
     public class Q02 {
-        public static void main(String[] args) {
+        public static void day07object.PhoneFactory.main(String[] args) {
 
             Scanner sc = new Scanner(System.in);
 

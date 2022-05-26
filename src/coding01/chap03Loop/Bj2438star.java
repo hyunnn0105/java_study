@@ -22,7 +22,7 @@ public class Bj2438star {
 
             public class Star {
 
-                public static void main(String[] args) {
+                public static void day07object.PhoneFactory.main(String[] args) {
 
                     for (int i = 0; i < 5; i++) {
                         //별을 반복해서 찍는코드

@@ -1,21 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f606e13a-7966-43b2-8d14-8ecb329904cc" name="Changes" comment="220524 cap04 + 배열">
-      <change afterPath="$PROJECT_DIR$/src/coding01/chap05/Bj1065.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding01/chap05/Bj1065Ans.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding01/chap05/Bj15596.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding01/chap05/Bj4673.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding01/chap05/Bj4673Ans.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day05/rouletteAns.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day06/MethodPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day06/Note220525.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day06/cap01MethodBasic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day06/cap03methodReturn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day06/cap2MethodParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day06/heloo.java" afterDir="false" />
+    <list default="true" id="f606e13a-7966-43b2-8d14-8ecb329904cc" name="Changes" comment="220525 메서드">
+      <change afterPath="$PROJECT_DIR$/src/coding01/chap06str/Q1Bj11654.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coding01/chap06str/Q2bj11720.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coding01/chap06str/Q2bj11720Ans.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coding01/chap06str/Q3Bj10809.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kh/example/practice1/model/run/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kh/example/practice1/model/vo/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kh/example/practice4/model/vo/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kh/example/practice4/run/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kh/example/practice5/model/vo/Lotto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kh/example/practice5/run/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kh/example/practice6/model/vo/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kh/example/practice6/run/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07object/FieldVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07object/Note220526Odject.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07object/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07object/PhoneFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07object/PhoneMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07object/StringEqual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07object/StringMethod.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day05/roulette.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day05/roulette.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coding01/cap1/Bj2588.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding01/cap1/Bj2588.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coding01/cap2/Bj2480not.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding01/cap2/Bj2480not.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coding01/cap2/Bj2525not.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding01/cap2/Bj2525not.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coding01/cap2/Bj2753.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding01/cap2/Bj2753.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coding01/cap2/Bj9498.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding01/cap2/Bj9498.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coding01/chap03Loop/Bj11021ab7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding01/chap03Loop/Bj11021ab7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coding01/chap03Loop/Bj2438star.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding01/chap03Loop/Bj2438star.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coding01/chap05/Bj4673.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding01/chap05/Bj4673.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day01/Comment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day01/Comment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day01/varScope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day01/varScope.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day03/SwitchQuiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day03/SwitchQuiz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day04/Note220523.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/day04/Note220523.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,20 +89,25 @@
     <key name="CreateClassDialog.RecentsKey">
       <recent name="coding01.chap4" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="example.practice2.model.vo.Product" />
+      <recent name="com.kh.example.practice1.model.vo.Member" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="coding01.chap06str" />
       <recent name="coding01.chap05" />
       <recent name="day05" />
       <recent name="coding01.chap03Loop" />
       <recent name="coding01.cap1" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.Bj4673">
-    <configuration name="Bj15596" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="coding01.chap05.Bj15596" />
+  <component name="RunManager" selected="애플리케이션.com.kh.example.practice1.model.run.Run">
+    <configuration name="Q2bj11720" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="coding01.chap06str.Q2bj11720" />
       <module name="java_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="coding01.chap05.*" />
+          <option name="PATTERN" value="coding01.chap06str.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bj4673" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="coding01.chap05.Bj4673" />
+    <configuration name="Q2bj11720Ans" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="coding01.chap06str.Q2bj11720Ans" />
       <module name="java_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="coding01.chap05.*" />
+          <option name="PATTERN" value="coding01.chap06str.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bj4673Ans" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="coding01.chap05.Bj4673Ans" />
+    <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kh.example.practice5.run.Run" />
       <module name="java_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="coding01.chap05.*" />
+          <option name="PATTERN" value="com.kh.example.practice5.run.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day06.MethodPractice" />
+    <configuration name="com.kh.example.practice1.model.run.Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kh.example.practice1.model.run.Run" />
       <module name="java_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day06.*" />
+          <option name="PATTERN" value="com.kh.example.practice1.model.run.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +154,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="cap01MethodBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day06.cap01MethodBasic" />
+    <configuration name="com.kh.example.practice6.run.Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kh.example.practice6.run.Run" />
       <module name="java_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day06.*" />
+          <option name="PATTERN" value="com.kh.example.practice6.run.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.Bj4673" />
-        <item itemvalue="애플리케이션.Bj4673Ans" />
-        <item itemvalue="애플리케이션.coding01.chap05.Bj15596" />
-        <item itemvalue="애플리케이션.cap01MethodBasic" />
-        <item itemvalue="애플리케이션.MethodPractice" />
+        <item itemvalue="애플리케이션.com.kh.example.practice1.model.run.Run" />
+        <item itemvalue="애플리케이션.Run" />
+        <item itemvalue="애플리케이션.com.kh.example.practice6.run.Run" />
+        <item itemvalue="애플리케이션.Q2bj11720Ans" />
+        <item itemvalue="애플리케이션.Q2bj11720" />
       </list>
     </recent_temporary>
   </component>
@@ -205,7 +228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653384036902</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="220525 메서드">
+      <created>1653470396411</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1653470396411</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -226,7 +256,18 @@
     <MESSAGE value="220519" />
     <MESSAGE value="220520 반복문" />
     <MESSAGE value="220524 cap04 + 배열" />
-    <option name="LAST_COMMIT_MESSAGE" value="220524 cap04 + 배열" />
+    <MESSAGE value="220525 메서드" />
+    <option name="LAST_COMMIT_MESSAGE" value="220525 메서드" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArithmeticException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

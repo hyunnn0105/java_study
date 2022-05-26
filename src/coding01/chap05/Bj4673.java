@@ -41,9 +41,9 @@ public class Bj4673 {
             }
 
             for (int j = 0; j < 10000; j++) {
-                if (j!=re){
-                    System.out.println(j);
-                }
+//                if (j!=re){
+//                    System.out.println(j);
+//                }
             }
 
     }
