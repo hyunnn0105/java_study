@@ -1,40 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f606e13a-7966-43b2-8d14-8ecb329904cc" name="Changes" comment="220525 메서드">
-      <change afterPath="$PROJECT_DIR$/src/coding01/chap06str/Q1Bj11654.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding01/chap06str/Q2bj11720.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding01/chap06str/Q2bj11720Ans.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding01/chap06str/Q3Bj10809.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kh/example/practice1/model/run/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kh/example/practice1/model/vo/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kh/example/practice4/model/vo/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kh/example/practice4/run/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kh/example/practice5/model/vo/Lotto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kh/example/practice5/run/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kh/example/practice6/model/vo/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kh/example/practice6/run/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day07object/FieldVariable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day07object/Note220526Odject.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day07object/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day07object/PhoneFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day07object/PhoneMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day07object/StringEqual.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day07object/StringMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/coding01/cap1/Bj2588.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding01/cap1/Bj2588.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/coding01/cap2/Bj2480not.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding01/cap2/Bj2480not.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/coding01/cap2/Bj2525not.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding01/cap2/Bj2525not.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/coding01/cap2/Bj2753.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding01/cap2/Bj2753.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/coding01/cap2/Bj9498.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding01/cap2/Bj9498.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/coding01/chap03Loop/Bj11021ab7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding01/chap03Loop/Bj11021ab7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/coding01/chap03Loop/Bj2438star.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding01/chap03Loop/Bj2438star.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/coding01/chap05/Bj4673.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding01/chap05/Bj4673.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day01/Comment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day01/Comment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day01/varScope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day01/varScope.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day03/SwitchQuiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day03/SwitchQuiz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day04/Note220523.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/day04/Note220523.md" afterDir="false" />
-    </list>
+    <list default="true" id="f606e13a-7966-43b2-8d14-8ecb329904cc" name="Changes" comment="220526 메서드+객체+클래스" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -235,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653470396411</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="220526 메서드+객체+클래스">
+      <created>1653556827017</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1653556827017</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -257,7 +231,8 @@
     <MESSAGE value="220520 반복문" />
     <MESSAGE value="220524 cap04 + 배열" />
     <MESSAGE value="220525 메서드" />
-    <option name="LAST_COMMIT_MESSAGE" value="220525 메서드" />
+    <MESSAGE value="220526 메서드+객체+클래스" />
+    <option name="LAST_COMMIT_MESSAGE" value="220526 메서드+객체+클래스" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
