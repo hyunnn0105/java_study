@@ -33,11 +33,11 @@
 3. 필드, 메서드, 생성자에는 4가지 제한자를 모두 사용가능
 
 
-## 실행순거
+## 실행순서
 ![img_1.png](img_1.png)
 ![img.png](img.png)
-
-+ public
-# protected
-~ default
-- private
+    
+    '+' public   
+    '#' protected   
+    '~' default   
+    '-' private   
