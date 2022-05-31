@@ -1,23 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f606e13a-7966-43b2-8d14-8ecb329904cc" name="Changes" comment="220527 패키지 + this">
-      <change afterPath="$PROJECT_DIR$/src/codingtest/programmers/lev1/q6muu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codingtest/programmers/lev1/q7nonnumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codingtest/programmers/lev1/q8wirednum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codingtest/programmers/lev1/q9numStringNeng.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructure/chap02/linkedlist/singly/HeaderNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructure/chap02/linkedlist/singly/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructure/chap02/linkedlist/singly/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructure/chap02/linkedlist/singly/SimpleLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day09/Note220530.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day09/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day09/object/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day09/object/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day09/object/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day09/object/Person.java" afterDir="false" />
+    <list default="true" id="f606e13a-7966-43b2-8d14-8ecb329904cc" name="Changes" comment="220530 알고리즘 + 배열과리스트">
+      <change afterPath="$PROJECT_DIR$/src/com/kh/hw/member/controller/MemberController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kh/hw/member/model/vo/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kh/hw/member/run/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kh/hw/member/view/MemderMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kh/hw/member/view/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kh/practice/student/controller/StudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kh/practice/student/model/vo/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kh/practice/student/run/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kh/practice/student/view/StudentMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day10/Note220531.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day10/encap/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day10/encap/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codingtest/programmers/lev1/q5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingtest/programmers/lev1/q5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,22 +51,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;프로젝트&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "project.structure.last.edited": "프로젝트",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editing.templates"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/새 스크래치 파일&quot;: [
-      &quot;Markdown&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/새 스크래치 파일": [
+      "Markdown"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="coding01.chap4" />
@@ -88,7 +85,59 @@
       <recent name="coding01.cap1" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.datastructure.chap02.linkedlist.singly.Main">
+  <component name="RunManager" selected="애플리케이션.Test">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day10.encap.Main" />
+      <module name="java_study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day10.encap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kh.practice.student.run.Run" />
+      <module name="java_study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kh.practice.student.run.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kh.hw.member.view.Test" />
+      <module name="java_study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kh.hw.member.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.kh.hw.member.run.Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kh.hw.member.run.Run" />
+      <module name="java_study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kh.hw.member.run.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="datastructure.chap02.linkedlist.singly.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="datastructure.chap02.linkedlist.singly.Main" />
       <module name="java_study" />
@@ -102,65 +151,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="q6muu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codingtest.programmers.lev1.q6muu" />
-      <module name="java_study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="codingtest.programmers.lev1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="q7nonnumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codingtest.programmers.lev1.q7nonnumber" />
-      <module name="java_study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="codingtest.programmers.lev1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="q8wirednum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codingtest.programmers.lev1.q8wirednum" />
-      <module name="java_study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="codingtest.programmers.lev1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="q9numStringNeng" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codingtest.programmers.lev1.q9numStringNeng" />
-      <module name="java_study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="codingtest.programmers.lev1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.Test" />
+        <item itemvalue="애플리케이션.com.kh.hw.member.run.Run" />
+        <item itemvalue="애플리케이션.Run" />
+        <item itemvalue="애플리케이션.Main" />
         <item itemvalue="애플리케이션.datastructure.chap02.linkedlist.singly.Main" />
-        <item itemvalue="애플리케이션.q9numStringNeng" />
-        <item itemvalue="애플리케이션.q8wirednum" />
-        <item itemvalue="애플리케이션.q7nonnumber" />
-        <item itemvalue="애플리케이션.q6muu" />
       </list>
     </recent_temporary>
   </component>
@@ -243,7 +240,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653643130897</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="220530 알고리즘 + 배열과리스트">
+      <created>1653902369247</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1653902369247</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -268,7 +272,8 @@
     <MESSAGE value="220526 메서드+객체+클래스" />
     <MESSAGE value="220526" />
     <MESSAGE value="220527 패키지 + this" />
-    <option name="LAST_COMMIT_MESSAGE" value="220527 패키지 + this" />
+    <MESSAGE value="220530 알고리즘 + 배열과리스트" />
+    <option name="LAST_COMMIT_MESSAGE" value="220530 알고리즘 + 배열과리스트" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
