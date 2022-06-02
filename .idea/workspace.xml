@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f606e13a-7966-43b2-8d14-8ecb329904cc" name="Changes" comment="220602M">
-      <change afterPath="$PROJECT_DIR$/src/TeamprojectThird/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TeamprojectThird/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TeamprojectThird/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TeamprojectThird/Player/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TeamprojectThird/Player/StockName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TeamprojectThird/Stock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TeamprojectThird/controller/GameController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TeamprojectThird/run/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codingtest/Baekjoon/Bj11659.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codingtest/Baekjoon/bj11660.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructure/chap02/linkedlist/Doubly/DoublyLinkedlist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructure/chap02/linkedlist/Doubly/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructure/chap02/linkedlist/Doubly/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructure/chap02/linkedlist/Doubly/SentinelNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day09/img_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kh/hw/member/view/MemderMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kh/hw/member/view/MemderMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day09/Note220530.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/day09/Note220530.md" afterDir="false" />
-    </list>
+    <list default="true" id="f606e13a-7966-43b2-8d14-8ecb329904cc" name="Changes" comment="220602 tp" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -269,7 +250,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654130219768</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="220602 tp">
+      <created>1654161519664</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1654161519664</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -297,7 +285,8 @@
     <MESSAGE value="220530 알고리즘 + 배열과리스트" />
     <MESSAGE value="220531 객체배열실습문제 + setter/getter" />
     <MESSAGE value="220602M" />
-    <option name="LAST_COMMIT_MESSAGE" value="220602M" />
+    <MESSAGE value="220602 tp" />
+    <option name="LAST_COMMIT_MESSAGE" value="220602 tp" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
