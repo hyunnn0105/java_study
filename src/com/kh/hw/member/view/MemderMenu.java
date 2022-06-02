@@ -3,13 +3,13 @@ package com.kh.hw.member.view;
 import com.kh.hw.member.controller.MemberController;
 import com.kh.hw.member.model.vo.Member;
 
-import javax.swing.*;
 import java.util.Scanner;
 
 public class MemderMenu {
 
     Scanner sc = new Scanner(System.in);
     MemberController mc = new MemberController();
+    // **데이터의 주소를 저장하는 변수(포인터)
 
 //    MemberMeun(){}
     public void mainMeun(){
