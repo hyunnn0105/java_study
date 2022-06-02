@@ -9,6 +9,11 @@ package codingtest.programmers.lev1;
 
 /*
     -의사코드
+     의사코드(Pseudo-code)
+    실제 프로그래밍 언어와 유사한 언어로 작성된 코드
+    자연어 사용의 단점 해결
+    하지만 직접 실행할 수 없음.
+
     각 단어의 위치를 기억할 변수 count 선언 초깃값 0
     for(문자열.len) {
         if(' ') {

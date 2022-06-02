@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f606e13a-7966-43b2-8d14-8ecb329904cc" name="Changes" comment="220530 알고리즘 + 배열과리스트">
-      <change afterPath="$PROJECT_DIR$/src/com/kh/hw/member/controller/MemberController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kh/hw/member/model/vo/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kh/hw/member/run/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kh/hw/member/view/MemderMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kh/hw/member/view/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kh/practice/student/controller/StudentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kh/practice/student/model/vo/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kh/practice/student/run/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kh/practice/student/view/StudentMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day10/Note220531.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day10/encap/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day10/encap/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f606e13a-7966-43b2-8d14-8ecb329904cc" name="Changes" comment="220531 객체배열실습문제 + setter/getter" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -247,7 +233,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653902369247</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="220531 객체배열실습문제 + setter/getter">
+      <created>1653988580848</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1653988580848</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -273,7 +266,8 @@
     <MESSAGE value="220526" />
     <MESSAGE value="220527 패키지 + this" />
     <MESSAGE value="220530 알고리즘 + 배열과리스트" />
-    <option name="LAST_COMMIT_MESSAGE" value="220530 알고리즘 + 배열과리스트" />
+    <MESSAGE value="220531 객체배열실습문제 + setter/getter" />
+    <option name="LAST_COMMIT_MESSAGE" value="220531 객체배열실습문제 + setter/getter" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
