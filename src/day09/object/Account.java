@@ -12,4 +12,9 @@ public class Account {
         // 이 통장의 주인 어쩌구
         this.owner = p;
     }
+
+    public int getBalance() {
+        return balance;
+    }
+
 }

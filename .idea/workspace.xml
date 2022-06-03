@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f606e13a-7966-43b2-8d14-8ecb329904cc" name="Changes" comment="220602 tp" />
+    <list default="true" id="f606e13a-7966-43b2-8d14-8ecb329904cc" name="Changes" comment="220602 tp">
+      <change afterPath="$PROJECT_DIR$/src/javateamproject/javaTeamproject03/hj/run/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TeamprojectThird/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TeamprojectThird/Company.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TeamprojectThird/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TeamprojectThird/Player/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TeamprojectThird/Player/StockName.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TeamprojectThird/Stock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TeamprojectThird/controller/GameController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TeamprojectThird/run/Run.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javateamproject/javaTeamproject03/hj/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javateamproject/javaTeamproject03/hj/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javateamproject/javaTeamproject03/hj/Company.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javateamproject/javaTeamproject03/hj/Company.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javateamproject/javaTeamproject03/hj/Stock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javateamproject/javaTeamproject03/hj/Stock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javateamproject/javaTeamproject03/kw/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javateamproject/javaTeamproject03/kw/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javateamproject/javaTeamproject03/kw/Stock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javateamproject/javaTeamproject03/kw/Stock.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +36,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/javateamproject/javaTeamproject03" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/day2/AssignmentOperator.java" root0="FORCE_HIGHLIGHTING" />
@@ -45,6 +62,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/home/Desktop/project",
     "project.structure.last.edited": "프로젝트",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -74,20 +92,7 @@
       <recent name="coding01.cap1" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.com.kh.hw.member.run.Run">
-    <configuration name="Bj11659" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codingtest.Baekjoon.Bj11659" />
-      <module name="java_study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="codingtest.Baekjoon.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="애플리케이션.test">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day09.object.Main" />
       <module name="java_study" />
@@ -140,13 +145,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javateamproject.javaTeamproject03.hj.run.test" />
+      <module name="java_study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javateamproject.javaTeamproject03.hj.run.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.test" />
         <item itemvalue="애플리케이션.com.kh.hw.member.run.Run" />
         <item itemvalue="애플리케이션.Run" />
         <item itemvalue="애플리케이션.Main" />
         <item itemvalue="애플리케이션.bj11660" />
-        <item itemvalue="애플리케이션.Bj11659" />
       </list>
     </recent_temporary>
   </component>
@@ -257,7 +275,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654161519664</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="220602 tp">
+      <created>1654161541882</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1654161541882</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -265,7 +290,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/hj" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
