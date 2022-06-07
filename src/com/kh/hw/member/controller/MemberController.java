@@ -1,7 +1,6 @@
 package com.kh.hw.member.controller;
 
 import com.kh.hw.member.model.vo.Member;
-import com.kh.hw.member.view.MemderMenu;
 
 public class MemberController {
     private Member[] m = new Member[SIZE];

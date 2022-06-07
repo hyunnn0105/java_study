@@ -2,18 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f606e13a-7966-43b2-8d14-8ecb329904cc" name="Changes" comment="220602 tp">
+      <change afterPath="$PROJECT_DIR$/project/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/.idea/project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/src/stockjoin/StockMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/src/stockjoin/member/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/src/stockjoin/run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/src/stockjoin/stock/trade/Stock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/src/stockjoin/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javateamproject/javaTeamproject03" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/javateamproject/javaTeamproject03/hj/run/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TeamprojectThird/Account.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TeamprojectThird/Company.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TeamprojectThird/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TeamprojectThird/Player/Player.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TeamprojectThird/Player/StockName.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TeamprojectThird/Stock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TeamprojectThird/controller/GameController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TeamprojectThird/run/Run.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javateamproject/javaTeamproject03/hj/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javateamproject/javaTeamproject03/hj/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kh/hw/member/controller/MemberController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kh/hw/member/controller/MemberController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day10/Note220531.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/day10/Note220531.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javateamproject/javaTeamproject03/hj/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javateamproject/javaTeamproject03/hj/AccountSecond.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/javateamproject/javaTeamproject03/hj/Company.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javateamproject/javaTeamproject03/hj/Company.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/javateamproject/javaTeamproject03/hj/Stock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javateamproject/javaTeamproject03/hj/Stock.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/javateamproject/javaTeamproject03/kw/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javateamproject/javaTeamproject03/kw/Account.java" afterDir="false" />
@@ -36,7 +46,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/javateamproject/javaTeamproject03" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/day2/AssignmentOperator.java" root0="FORCE_HIGHLIGHTING" />
@@ -62,7 +72,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/home/Desktop/project",
+    "last_opened_file_path": "C:/sl_test/java_study/java_study",
     "project.structure.last.edited": "프로젝트",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
