@@ -1,4 +1,4 @@
-package day11.inherit;
+package JavaStudyDate.day11.inherit;
 
 // 부모클래스 (superClass)
 

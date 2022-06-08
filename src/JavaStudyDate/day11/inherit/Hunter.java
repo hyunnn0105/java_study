@@ -1,4 +1,4 @@
-package day11.inherit;
+package JavaStudyDate.day11.inherit;
 
 public class Hunter extends Player{
 

@@ -1,4 +1,4 @@
-package day11.Protec.pac1;
+package JavaStudyDate.day11.Protec.pac1;
 
 public class A {
     protected int f1;

@@ -1,6 +1,6 @@
-package day11.Protec.pac2;
+package JavaStudyDate.day11.Protec.pac2;
 
-import day11.Protec.pac1.A;
+import JavaStudyDate.day11.Protec.pac1.A;
 
 public class C {
 

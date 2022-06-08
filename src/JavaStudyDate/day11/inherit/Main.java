@@ -1,4 +1,4 @@
-package day11.inherit;
+package JavaStudyDate.day11.inherit;
 
 public class Main {
     public static void main(String[] args) {
