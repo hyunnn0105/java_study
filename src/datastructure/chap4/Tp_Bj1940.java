@@ -20,16 +20,25 @@ public class Tp_Bj1940 {
         int[] arr = {2, 7, 4, 1, 5, 3};
         // 오름차 정렬
         Arrays.sort(arr);
-        int sum = arr[start] + arr[end];
+        System.out.println(Arrays.toString(arr));
+        int sum = arr[start];
 //        System.out.println(Arrays.toString(arr));
         int count = 0; // 부분합 저장?
-        while ( arr[end] < arr[arr.length]) {
+        while (end < find) {
+            System.out.printf("start : %d, end : %d, sum : %d ,count : %d\n", start, end, sum, count);
             if ( sum == find) {
                 count++;
-                start++;
+                end++;
+                if (end < find) sum += arr[end];
             } else if (sum > find) {
-
+                sum -= arr[start];
+                start++;
+            } else {
+                end++;
+                sum += arr[end];
             }
+            System.out.println(count);
+
         }
     }
 }
