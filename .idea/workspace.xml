@@ -1,39 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f606e13a-7966-43b2-8d14-8ecb329904cc" name="Changes" comment="220607-1 commit">
-      <change afterPath="$PROJECT_DIR$/src/com/kh/hw/person/controller/Personcontroller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kh/hw/person/model/vo/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kh/hw/person/model/vo/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kh/hw/person/model/vo/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kh/hw/person/run/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kh/hw/person/view/PersonMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kh/practice/point/controller/CircleController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kh/practice/point/controller/RectangleController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kh/practice/point/model/vo/Point/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kh/practice/point/model/vo/Point/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kh/practice/point/model/vo/Point/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kh/practice/point/run/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kh/practice/point/view/PointMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructure/chap4/Tp_Bj1940.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructure/chap4/twopointer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day11/Note220608.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day11/Protec/pac1/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day11/Protec/pac1/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day11/Protec/pac2/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day11/Protec/pac2/D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day11/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day11/inherit/Hunter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day11/inherit/Mage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day11/inherit/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day11/inherit/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day11/inherit/Rogue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day11/inherit/Warrior.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day10/encap/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day10/encap/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day10/encap/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day10/encap/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javateamproject/javaTeamproject03" beforeDir="false" />
-    </list>
+    <list default="true" id="f606e13a-7966-43b2-8d14-8ecb329904cc" name="Changes" comment="220608 투포인터 + 상속 commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -312,7 +280,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654648751083</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="220608 투포인터 + 상속 commit">
+      <created>1654680105457</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1654680105457</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -355,7 +330,8 @@
     <MESSAGE value="220602 tp" />
     <MESSAGE value="220607 endtp commit" />
     <MESSAGE value="220607-1 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="220607-1 commit" />
+    <MESSAGE value="220608 투포인터 + 상속 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="220608 투포인터 + 상속 commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
