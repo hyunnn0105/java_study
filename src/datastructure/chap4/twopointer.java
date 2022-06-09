@@ -24,7 +24,7 @@ public class twopointer {
         // 대소비교가 관건
         while (end < N) {
             System.out.printf(" start %d, end: %d, M %d, count:%d\n",
-                    start, end, M, count);
+                    start, end, M,    count);
             if (M == N) {
                 count++; // 원하는 합을 발견한 경우 , 경우의 수 증가
                 end++;

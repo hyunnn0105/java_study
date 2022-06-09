@@ -1,38 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f606e13a-7966-43b2-8d14-8ecb329904cc" name="Changes" comment="220607-1 commit">
-      <change afterPath="$PROJECT_DIR$/src/com/kh/hw/person/controller/Personcontroller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kh/hw/person/model/vo/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kh/hw/person/model/vo/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kh/hw/person/model/vo/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kh/hw/person/run/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kh/hw/person/view/PersonMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kh/practice/point/controller/CircleController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kh/practice/point/controller/RectangleController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kh/practice/point/model/vo/Point/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kh/practice/point/model/vo/Point/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kh/practice/point/model/vo/Point/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kh/practice/point/run/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kh/practice/point/view/PointMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructure/chap4/Tp_Bj1940.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructure/chap4/twopointer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day11/Note220608.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day11/Protec/pac1/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day11/Protec/pac1/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day11/Protec/pac2/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day11/Protec/pac2/D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day11/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day11/inherit/Hunter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day11/inherit/Mage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day11/inherit/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day11/inherit/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day11/inherit/Rogue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day11/inherit/Warrior.java" afterDir="false" />
+    <list default="true" id="f606e13a-7966-43b2-8d14-8ecb329904cc" name="Changes" comment="220609-1">
+      <change afterPath="$PROJECT_DIR$/src/JavaStudyDate/day12/Final_/Korean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudyDate/day12/Final_/Ma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudyDate/day12/Final_/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudyDate/day12/Note220609.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudyDate/day12/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudyDate/day12/static_/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudyDate/day12/static_/Count.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudyDate/day12/static_/KoreanStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudyDate/day12/static_/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudyDate/day12/static_/singleton/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudyDate/day12/static_/singleton/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructure/chap5/queue/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructure/chap5/queue/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructure/chap5/queue/QueueExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructure/chap5/queue/solution/Bj17298오큰수.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructure/chap5/queue/solution/Card2Bj2164.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructure/chap5/stack/Solution/StackBj1874.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructure/chap5/stack/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructure/chap5/stack/main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day10/encap/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day10/encap/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day10/encap/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day10/encap/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javateamproject/javaTeamproject03" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastructure/chap4/twopointer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructure/chap4/twopointer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,16 +45,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/day2/AssignmentOperator.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/day2/BitOperator.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/day2/Casting.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/day2/Casting2.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/day2/Casting3.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/day2/ConditionalOperator.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/day2/DataType.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/day2/LogicalOperator.java" root0="FORCE_HIGHLIGHTING" />
-  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -73,23 +54,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/sl_test/java_study/java_study",
-    "project.structure.last.edited": "프로젝트",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "project.propCompiler"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/sl_test/java_study/java_study&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;프로젝트&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/새 스크래치 파일": [
-      "Markdown"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/새 스크래치 파일&quot;: [
+      &quot;Markdown&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="coding01.chap4" />
@@ -108,13 +89,13 @@
       <recent name="coding01.cap1" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.twopointer">
-    <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kh.practice.point.run.Run" />
+  <component name="RunManager" selected="애플리케이션.Bj17298오큰수">
+    <configuration name="Bj17298오큰수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructure.chap5.queue.solution.Bj17298오큰수" />
       <module name="java_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kh.practice.point.run.*" />
+          <option name="PATTERN" value="datastructure.chap5.queue.solution.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tp_Bj1940" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datastructure.chap4.Tp_Bj1940" />
+    <configuration name="Card2Bj2164" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructure.chap5.queue.solution.Card2Bj2164" />
       <module name="java_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datastructure.chap4.*" />
+          <option name="PATTERN" value="datastructure.chap5.queue.solution.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.kh.practice.point.model.vo.Point.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kh.practice.point.model.vo.Point.Test" />
+    <configuration name="QueueExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructure.chap5.queue.QueueExample" />
       <module name="java_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kh.practice.point.model.vo.Point.*" />
+          <option name="PATTERN" value="datastructure.chap5.queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="day11.inherit.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day11.inherit.Main" />
+    <configuration name="StackBj1874" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructure.chap5.stack.Solution.StackBj1874" />
       <module name="java_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day11.inherit.*" />
+          <option name="PATTERN" value="datastructure.chap5.stack.Solution.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="twopointer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datastructure.chap4.twopointer" />
+    <configuration name="datastructure.chap5.stack.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructure.chap5.stack.main" />
       <module name="java_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datastructure.chap4.*" />
+          <option name="PATTERN" value="datastructure.chap5.stack.Solution.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -176,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.twopointer" />
-        <item itemvalue="애플리케이션.Tp_Bj1940" />
-        <item itemvalue="애플리케이션.Run" />
-        <item itemvalue="애플리케이션.com.kh.practice.point.model.vo.Point.Test" />
-        <item itemvalue="애플리케이션.day11.inherit.Main" />
+        <item itemvalue="애플리케이션.Bj17298오큰수" />
+        <item itemvalue="애플리케이션.Card2Bj2164" />
+        <item itemvalue="애플리케이션.QueueExample" />
+        <item itemvalue="애플리케이션.StackBj1874" />
+        <item itemvalue="애플리케이션.datastructure.chap5.stack.main" />
       </list>
     </recent_temporary>
   </component>
@@ -312,7 +293,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654648751083</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="220609-1">
+      <created>1654740570312</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1654740570312</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -355,7 +343,8 @@
     <MESSAGE value="220602 tp" />
     <MESSAGE value="220607 endtp commit" />
     <MESSAGE value="220607-1 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="220607-1 commit" />
+    <MESSAGE value="220609-1" />
+    <option name="LAST_COMMIT_MESSAGE" value="220609-1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
