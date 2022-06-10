@@ -1,30 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f606e13a-7966-43b2-8d14-8ecb329904cc" name="Changes" comment="220609-1">
-      <change afterPath="$PROJECT_DIR$/src/JavaStudyDate/day12/Final_/Korean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudyDate/day12/Final_/Ma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudyDate/day12/Final_/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudyDate/day12/Note220609.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudyDate/day12/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudyDate/day12/static_/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudyDate/day12/static_/Count.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudyDate/day12/static_/KoreanStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudyDate/day12/static_/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudyDate/day12/static_/singleton/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudyDate/day12/static_/singleton/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructure/chap5/queue/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructure/chap5/queue/Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructure/chap5/queue/QueueExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructure/chap5/queue/solution/Bj17298오큰수.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructure/chap5/queue/solution/Card2Bj2164.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructure/chap5/stack/Solution/StackBj1874.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructure/chap5/stack/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructure/chap5/stack/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/datastructure/chap4/twopointer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructure/chap4/twopointer.java" afterDir="false" />
-    </list>
+    <list default="true" id="f606e13a-7966-43b2-8d14-8ecb329904cc" name="Changes" comment="220609-end stack / queue" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -300,7 +277,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654740570312</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="220609-end stack / queue">
+      <created>1654766424928</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1654766424928</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -344,7 +328,8 @@
     <MESSAGE value="220607 endtp commit" />
     <MESSAGE value="220607-1 commit" />
     <MESSAGE value="220609-1" />
-    <option name="LAST_COMMIT_MESSAGE" value="220609-1" />
+    <MESSAGE value="220609-end stack / queue" />
+    <option name="LAST_COMMIT_MESSAGE" value="220609-end stack / queue" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
