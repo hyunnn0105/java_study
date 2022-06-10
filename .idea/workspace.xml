@@ -1,7 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f606e13a-7966-43b2-8d14-8ecb329904cc" name="Changes" comment="220609-end stack / queue" />
+    <list default="true" id="f606e13a-7966-43b2-8d14-8ecb329904cc" name="Changes" comment="220609">
+      <change afterPath="$PROJECT_DIR$/src/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudyDate/day13/Note220610.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudyDate/day13/poly/basic/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudyDate/day13/poly/basic/Musical.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudyDate/day13/poly/basic/Poly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudyDate/day13/poly/car/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudyDate/day13/poly/car/Carshop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudyDate/day13/poly/car/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudyDate/day13/poly/car/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudyDate/day13/poly/car/Mustang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudyDate/day13/poly/car/Stinger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudyDate/day13/poly/car/granduer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudyDate/day13/poly/castimg/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudyDate/day13/poly/castimg/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudyDate/day13/poly/castimg/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudyDate/day13/poly/overloading/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudyDate/day13/poly/overloading/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudyDate/day13/poly/playerQuiz/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Utility/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kh/practice/chap01_poly/controller/LibraryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kh/practice/chap01_poly/controller/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kh/practice/chap01_poly/model/vo/AniBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kh/practice/chap01_poly/model/vo/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kh/practice/chap01_poly/model/vo/CookBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kh/practice/chap01_poly/model/vo/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kh/practice/chap01_poly/run/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kh/practice/chap01_poly/view/LibraryMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructure/chap5/Deque.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaStudyDate/day11/inherit/Hunter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaStudyDate/day11/inherit/Hunter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaStudyDate/day11/inherit/Mage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaStudyDate/day11/inherit/Mage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaStudyDate/day11/inherit/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaStudyDate/day11/inherit/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaStudyDate/day11/inherit/Warrior.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaStudyDate/day11/inherit/Warrior.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,29 +61,32 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="29KHFYUzl1MdpRoz224uSX99pyo" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/sl_test/java_study/java_study&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;프로젝트&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/sl_test/java_study/java_study",
+    "project.structure.last.edited": "프로젝트",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/새 스크래치 파일&quot;: [
-      &quot;Markdown&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/새 스크래치 파일": [
+      "Markdown"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="coding01.chap4" />
@@ -66,20 +105,7 @@
       <recent name="coding01.cap1" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.Bj17298오큰수">
-    <configuration name="Bj17298오큰수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datastructure.chap5.queue.solution.Bj17298오큰수" />
-      <module name="java_study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="datastructure.chap5.queue.solution.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="애플리케이션.Card2Bj2164">
     <configuration name="Card2Bj2164" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="datastructure.chap5.queue.solution.Card2Bj2164" />
       <module name="java_study" />
@@ -93,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QueueExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datastructure.chap5.queue.QueueExample" />
+    <configuration name="JavaStudyDate.day11.inherit.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaStudyDate.day11.inherit.Main" />
       <module name="java_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datastructure.chap5.queue.*" />
+          <option name="PATTERN" value="JavaStudyDate.day11.inherit.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackBj1874" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datastructure.chap5.stack.Solution.StackBj1874" />
+    <configuration name="JavaStudyDate.day13.poly.playerQuiz.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaStudyDate.day13.poly.playerQuiz.Main" />
       <module name="java_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datastructure.chap5.stack.Solution.*" />
+          <option name="PATTERN" value="JavaStudyDate.day13.poly.playerQuiz.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +145,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="datastructure.chap5.stack.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datastructure.chap5.stack.main" />
+    <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kh.practice.chap01_poly.run.Run" />
       <module name="java_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datastructure.chap5.stack.Solution.*" />
+          <option name="PATTERN" value="com.kh.practice.chap01_poly.run.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kh.practice.chap01_poly.controller.Test" />
+      <module name="java_study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kh.practice.chap01_poly.controller.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.Bj17298오큰수" />
         <item itemvalue="애플리케이션.Card2Bj2164" />
-        <item itemvalue="애플리케이션.QueueExample" />
-        <item itemvalue="애플리케이션.StackBj1874" />
-        <item itemvalue="애플리케이션.datastructure.chap5.stack.main" />
+        <item itemvalue="애플리케이션.Run" />
+        <item itemvalue="애플리케이션.Test" />
+        <item itemvalue="애플리케이션.JavaStudyDate.day13.poly.playerQuiz.Main" />
+        <item itemvalue="애플리케이션.JavaStudyDate.day11.inherit.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -284,7 +323,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654766424928</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="220609">
+      <created>1654821548699</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1654821548699</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -329,7 +375,8 @@
     <MESSAGE value="220607-1 commit" />
     <MESSAGE value="220609-1" />
     <MESSAGE value="220609-end stack / queue" />
-    <option name="LAST_COMMIT_MESSAGE" value="220609-end stack / queue" />
+    <MESSAGE value="220609" />
+    <option name="LAST_COMMIT_MESSAGE" value="220609" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
