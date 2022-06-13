@@ -6,6 +6,7 @@ public class K번째수 {
             int[] answer = {};
             commands[][]
             return a;
+            //sdfwe
         }
 
     public void main(String[] args) {
