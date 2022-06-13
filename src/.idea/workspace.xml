@@ -2,41 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6275447f-3840-4bd7-8e09-8d57af37c5b9" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day13/Note220610.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day13/poly/basic/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day13/poly/basic/Musical.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day13/poly/basic/Poly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day13/poly/car/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day13/poly/car/Carshop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day13/poly/car/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day13/poly/car/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day13/poly/car/Mustang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day13/poly/car/Stinger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day13/poly/car/granduer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day13/poly/castimg/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day13/poly/castimg/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day13/poly/castimg/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day13/poly/overloading/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day13/poly/overloading/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day13/poly/playerQuiz/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Utility/Util.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/kh/practice/chap01_poly/controller/LibraryController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/kh/practice/chap01_poly/controller/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/kh/practice/chap01_poly/model/vo/AniBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/kh/practice/chap01_poly/model/vo/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/kh/practice/chap01_poly/model/vo/CookBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/kh/practice/chap01_poly/model/vo/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/kh/practice/chap01_poly/run/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/kh/practice/chap01_poly/view/LibraryMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/chap5/Deque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day14/Note220613.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day14/abs/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day14/abs/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day14/abs/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day14/abs/car/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day14/abs/car/Sonata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day14/abs/pet/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day14/abs/pet/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day14/abs/pet/GoldFish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day14/abs/pet/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day14/abs/pet/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codingtest/Baekjoon/Bj1517_버블소트.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codingtest/programmers/K번째수.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/kh/example/practice3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/kh/example/practice3/controller/AnimalManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/kh/example/practice3/model/vo/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/kh/example/practice3/model/vo/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/kh/example/practice3/model/vo/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/chap06/bubble/Bubble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/chap06/insertion/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/chap06/selection/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/chap06/solution/Bj11399.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/chap06/solution/Bj1427.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/chap06/solution/Bj2750.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudyDate/day11/inherit/Hunter.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaStudyDate/day11/inherit/Hunter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudyDate/day11/inherit/Mage.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaStudyDate/day11/inherit/Mage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudyDate/day11/inherit/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaStudyDate/day11/inherit/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudyDate/day11/inherit/Warrior.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaStudyDate/day11/inherit/Warrior.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework/day01/Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/day01/ArraysHomework.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaStudyDate/day07op/StringMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaStudyDate/day07op/StringMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaStudyDate/day13/poly/car/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaStudyDate/day13/poly/car/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure/chap5/queue/solution/Bj17298오큰수.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure/chap5/queue/solution/Bj17298오큰수.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,21 +57,73 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/sl_test/java_study/java_study"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/sl_test/java_study/java_study&quot;
   }
-}]]></component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaStudyDate.day13.poly.car.Main" />
+}</component>
+  <component name="RunManager" selected="애플리케이션.Bj1517_버블소트">
+    <configuration name="AnimalManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kh.example.practice3.controller.AnimalManager" />
       <module name="java_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaStudyDate.day13.poly.car.*" />
+          <option name="PATTERN" value="com.kh.example.practice3.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Bj1517_버블소트" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingtest.Baekjoon.Bj1517_버블소트" />
+      <module name="java_study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codingtest.Baekjoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Bubble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructure.chap06.bubble.Bubble" />
+      <module name="java_study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datastructure.chap06.bubble.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaStudyDate.day14.abs.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaStudyDate.day14.abs.Main" />
+      <module name="java_study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaStudyDate.day14.abs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaStudyDate.day14.abs.pet.Main" />
+      <module name="java_study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaStudyDate.day14.abs.pet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,6 +133,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.Bj1517_버블소트" />
+        <item itemvalue="애플리케이션.Bubble" />
+        <item itemvalue="애플리케이션.AnimalManager" />
+        <item itemvalue="애플리케이션.JavaStudyDate.day14.abs.Main" />
         <item itemvalue="애플리케이션.Main" />
       </list>
     </recent_temporary>

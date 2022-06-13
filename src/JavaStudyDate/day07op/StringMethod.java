@@ -63,12 +63,5 @@ public class StringMethod {
         int sum = Integer.parseInt(s1) + Integer.parseInt(s2);
         System.out.println("sum = " + sum);
 
-
-
-
-
     }
-
-
-
 }

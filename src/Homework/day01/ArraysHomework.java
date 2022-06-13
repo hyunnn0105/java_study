@@ -2,7 +2,7 @@ package Homework.day01;
 
 import Utility.Util;
 
-public class Arrays {
+public class ArraysHomework {
     public static void main(String[] args) {
         int[] intarr = new int[5];
         intarr[0] = 1;
