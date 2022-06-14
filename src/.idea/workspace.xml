@@ -1,38 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6275447f-3840-4bd7-8e09-8d57af37c5b9" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day14/Note220613.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day14/abs/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day14/abs/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day14/abs/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day14/abs/car/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day14/abs/car/Sonata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day14/abs/pet/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day14/abs/pet/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day14/abs/pet/GoldFish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day14/abs/pet/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day14/abs/pet/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codingtest/Baekjoon/Bj1517_버블소트.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codingtest/programmers/K번째수.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/kh/example/practice3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/kh/example/practice3/controller/AnimalManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/kh/example/practice3/model/vo/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/kh/example/practice3/model/vo/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/kh/example/practice3/model/vo/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/chap06/bubble/Bubble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/chap06/insertion/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/chap06/selection/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/chap06/solution/Bj11399.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/chap06/solution/Bj1427.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/chap06/solution/Bj2750.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/day01/Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/day01/ArraysHomework.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudyDate/day07op/StringMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaStudyDate/day07op/StringMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudyDate/day13/poly/car/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaStudyDate/day13/poly/car/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datastructure/chap5/queue/solution/Bj17298오큰수.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure/chap5/queue/solution/Bj17298오큰수.java" afterDir="false" />
-    </list>
+    <list default="true" id="6275447f-3840-4bd7-8e09-8d57af37c5b9" name="변경" comment="220613" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -150,6 +119,21 @@
       <option name="presentableId" value="Default" />
       <updated>1654649026780</updated>
     </task>
+    <task id="LOCAL-00001" summary="220613 home">
+      <created>1655112027125</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655112027125</updated>
+    </task>
+    <task id="LOCAL-00002" summary="220613">
+      <created>1655112094000</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1655112094000</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -162,5 +146,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="220613 home" />
+    <MESSAGE value="220613" />
+    <option name="LAST_COMMIT_MESSAGE" value="220613" />
   </component>
 </project>
