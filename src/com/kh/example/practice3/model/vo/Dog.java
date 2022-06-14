@@ -32,6 +32,7 @@ public class Dog extends Animal{
 
     @Override
     public void speak(){
+
         System.out.printf(" %s 몸무게는 %dkg입니다\n" ,super.toString(), weight);
     }
 

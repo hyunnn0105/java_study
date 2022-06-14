@@ -16,6 +16,7 @@ public class handphonenum {
     }
     // 끝에 4개만 마킹
     public static void main(String[] args) {
+
         System.out.println(solution("027778888"));
     }
 }
