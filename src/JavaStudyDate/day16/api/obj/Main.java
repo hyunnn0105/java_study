@@ -1,9 +1,8 @@
 package JavaStudyDate.day16.api.obj;
 
 import Utility.Util;
-
+// 배열 복사
 public class Main {
-    // ㅇㅖ외를 소환한 곳에서도 떠넘기는건가???
     public static void main(String[] args) throws CloneNotSupportedException {
         Pen p1 = new Pen(new Company("모나미", "서울"),01,"dlfqjs",1000);
         Pen p2 = new Pen(new Company("하이","부산"),02,"이번",2000);
