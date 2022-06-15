@@ -9,7 +9,7 @@ import java.util.Queue;
 // 음수배열은 역정렬 후 마이너스 넣어주기
 // 플러스 배열이랑 합치기 but 이러면 속도의 이점이 사라짐
 
-public class RadixSort {
+public class RedixSort {
         
     public static void sort(int[] arr){
         // 최대 자릿수 구하기 - 문자열 : loop의 횟수 결정

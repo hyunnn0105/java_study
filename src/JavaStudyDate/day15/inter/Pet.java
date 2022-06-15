@@ -9,5 +9,9 @@ public interface Pet {
     // (public final) 숨겨짐 final은 초기화가 필수
     
     void play(); // 애완동물이 노는 기능
+    
+    // 강제 오버라이딩은 막을 수 있음
+    default void smile(){}
+    
 
 }
