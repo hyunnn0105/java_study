@@ -1,27 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6275447f-3840-4bd7-8e09-8d57af37c5b9" name="변경" comment="220614">
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day16/api/obj/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day16/api/obj/Count.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day16/api/obj/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day16/api/obj/Pen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day16/api/string/StringExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day16/api/system/SystemTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day16/api/system/wrapper/Wrapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day16/api/system/wrapper/number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day16/api/time/LocalDateExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/Note220615.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/chap07/Bj1517.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/chap07/Bj2751.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/chap07/merge/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/chap07/quickSort/QuickSort.java" afterDir="false" />
+    <list default="true" id="6275447f-3840-4bd7-8e09-8d57af37c5b9" name="변경" comment="220615">
+      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day17/Note0616.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day17/collection/List/ArrayDeleteQuiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day17/collection/List/ArrayPushQuiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day17/collection/List/ArraySearchQuiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day17/collection/List/ListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day17/collection/List/Listcompare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day17/collection/map/MapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day17/collection/set/SetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day17/generic/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day17/generic/AppleBasket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day17/generic/Banana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day17/generic/BananaBasket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day17/generic/Basket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day17/generic/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day17/generic/Grape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day17/generic/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day17/generic/Toy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day17/music/menu/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day17/music/musitTitle/MusictTitle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day17/music/musitTitle/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day17/music/singer/Singer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/chap02/linkedlist/singly/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/chap07/search/Bj1920.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/chap07/search/Search.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudyDate/day15/Note220614.md" beforeDir="false" afterPath="$PROJECT_DIR$/JavaStudyDate/day15/Note220614.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudyDate/day15/exception/AccMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaStudyDate/day15/exception/AccMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudyDate/day15/inter/Pet.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaStudyDate/day15/inter/Pet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Utility/Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/Utility/Util.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datastructure/chap07/radix/RadixSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure/chap07/radix/RedixSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure/chap02/linkedlist/singly/HeaderNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure/chap02/linkedlist/singly/HeaderNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure/chap02/linkedlist/singly/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure/chap02/linkedlist/singly/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure/chap02/linkedlist/singly/SimpleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure/chap02/linkedlist/singly/SimpleLinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,31 +56,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/sl_test/java_study/java_study&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/sl_test/java_study/java_study/src/JavaStudyDate/day17/collection/List",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "copyright"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="JavaStudyDate.day16.api.obj" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\sl_test\java_study\java_study\src\JavaStudyDate\day17\collection\List" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="JavaStudyDate.day16.api" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.Bj1517">
-    <configuration name="Bj1517" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datastructure.chap07.Bj1517" />
+  <component name="RunManager" selected="애플리케이션.Bj1920">
+    <configuration name="ArrayDeleteQuiz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaStudyDate.day17.collection.List.ArrayDeleteQuiz" />
       <module name="java_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datastructure.chap07.*" />
+          <option name="PATTERN" value="JavaStudyDate.day17.collection.List.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bj2751" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datastructure.chap07.Bj2751" />
+    <configuration name="Bj1920" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructure.chap07.search.Bj1920" />
       <module name="java_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datastructure.chap07.*" />
+          <option name="PATTERN" value="datastructure.chap07.search.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LocalDateExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaStudyDate.day16.api.time.LocalDateExample" />
+    <configuration name="MapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaStudyDate.day17.collection.map.MapExample" />
       <module name="java_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaStudyDate.day16.api.time.*" />
+          <option name="PATTERN" value="JavaStudyDate.day17.collection.map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datastructure.chap07.merge.MergeSort" />
+    <configuration name="SetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaStudyDate.day17.collection.set.SetExample" />
       <module name="java_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datastructure.chap07.merge.*" />
+          <option name="PATTERN" value="JavaStudyDate.day17.collection.set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaStudyDate.day16.api.string.StringExample" />
+    <configuration name="datastructure.chap07.search.Search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructure.chap07.search.Search" />
       <module name="java_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaStudyDate.day16.api.string.*" />
+          <option name="PATTERN" value="datastructure.chap07.search.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.Bj1517" />
-        <item itemvalue="애플리케이션.Bj2751" />
-        <item itemvalue="애플리케이션.MergeSort" />
-        <item itemvalue="애플리케이션.LocalDateExample" />
-        <item itemvalue="애플리케이션.StringExample" />
+        <item itemvalue="애플리케이션.Bj1920" />
+        <item itemvalue="애플리케이션.datastructure.chap07.search.Search" />
+        <item itemvalue="애플리케이션.JavaStudyDate.day17.collection.map.MapExample" />
+        <item itemvalue="애플리케이션.SetExample" />
+        <item itemvalue="애플리케이션.ArrayDeleteQuiz" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655198382603</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="220615">
+      <created>1655284781016</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1655284781016</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -198,6 +216,7 @@
     <MESSAGE value="220613" />
     <MESSAGE value="220613-1" />
     <MESSAGE value="220614" />
-    <option name="LAST_COMMIT_MESSAGE" value="220614" />
+    <MESSAGE value="220615" />
+    <option name="LAST_COMMIT_MESSAGE" value="220615" />
   </component>
 </project>
