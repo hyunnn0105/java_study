@@ -6,7 +6,7 @@ import java.io.IOException;
 
 public class FileOutputExample {
     public static void main(String[] args) {
-        try (FileOutputStream fos = new FileOutputStream("C:/exercise/dog.txt")){
+        try (FileOutputStream fos = new FileOutputStream("C:/exercise/dog.txt*")){
 
         String msg = "멍멍멍머~~~~~~~~ \n 하하하하";
 

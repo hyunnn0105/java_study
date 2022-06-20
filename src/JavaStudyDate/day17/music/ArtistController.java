@@ -84,6 +84,7 @@ public class ArtistController {
         }
     }
 
+    // 불러오기 기능
     public void load(){
         File file = new File("C:/music/m.sav");
 

@@ -1,38 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6275447f-3840-4bd7-8e09-8d57af37c5b9" name="변경" comment="220616 list map">
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day17/music/Artist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day17/music/ArtistController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day17/music/ArtistMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day18/Note220617.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day18/anonymus/AddOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day18/anonymus/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day18/anonymus/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day18/anonymus/Carmain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day18/anonymus/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day18/anonymus/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day18/anonymus/PetName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day18/anonymus/PowerfulOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day18/api/io/buffer/BufferedReaderExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day18/api/io/file/FileExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day18/api/io/obj/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day18/api/io/obj/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day18/api/io/obj/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day18/api/io/rw/FileReaderExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day18/api/io/rw/FileWriterExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day18/api/io/stream/FileInputExamplle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day18/comparetor/AgeAscendingComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day18/comparetor/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day18/comparetor/NameAscendingComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day18/comparetor/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day18/fileoutputStream/FileOutputExample.java" afterDir="false" />
+    <list default="true" id="6275447f-3840-4bd7-8e09-8d57af37c5b9" name="변경" comment="220617 람다/스트림">
+      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day19/Note220620.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day19/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day19/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day19/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day19/lambda/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day19/lambda/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day19/lambda/FilteringApple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day19/lambda/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day19/lambda/Quiz01.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day19/lambda/Quiz02.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day19/lambda/Sorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day19/lambda/Summary.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaStudyDate/day17/collection/List/ListExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaStudyDate/day17/collection/List/ListExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaStudyDate/day17/music/ArtistController.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaStudyDate/day17/music/ArtistController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaStudyDate/day18/fileoutputStream/FileOutputExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaStudyDate/day18/fileoutputStream/FileOutputExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -54,16 +47,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/sl_test/java_study/java_study/src/JavaStudyDate/day17/collection/List",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/sl_test/java_study/java_study/src/JavaStudyDate/day17/collection/List&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Java&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="JavaStudyDate.day16.api.obj" />
@@ -75,7 +68,7 @@
       <recent name="JavaStudyDate.day16.api" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.JavaStudyDate.day18.comparetor.Main">
+  <component name="RunManager" selected="애플리케이션.Main">
     <configuration name="Carmain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaStudyDate.day18.anonymus.Carmain" />
       <module name="java_study" />
@@ -115,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaStudyDate.day18.api.io.obj.Main2" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaStudyDate.day19.lambda.Main" />
       <module name="java_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaStudyDate.day18.api.io.obj.*" />
+          <option name="PATTERN" value="JavaStudyDate.day19.lambda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaStudyDate.day17.music.Run" />
+    <configuration name="Sorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaStudyDate.day19.lambda.Sorting" />
       <module name="java_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaStudyDate.day17.music.*" />
+          <option name="PATTERN" value="JavaStudyDate.day19.lambda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.Main" />
+        <item itemvalue="애플리케이션.Sorting" />
         <item itemvalue="애플리케이션.JavaStudyDate.day18.comparetor.Main" />
         <item itemvalue="애플리케이션.Carmain" />
         <item itemvalue="애플리케이션.JavaStudyDate.day18.anonymus.Main" />
-        <item itemvalue="애플리케이션.Run" />
-        <item itemvalue="애플리케이션.Main2" />
       </list>
     </recent_temporary>
   </component>
@@ -202,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655371213419</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="220617 람다/스트림">
+      <created>1655457742934</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1655457742934</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -223,6 +223,7 @@
     <MESSAGE value="220614" />
     <MESSAGE value="220615" />
     <MESSAGE value="220616 list map" />
-    <option name="LAST_COMMIT_MESSAGE" value="220616 list map" />
+    <MESSAGE value="220617 람다/스트림" />
+    <option name="LAST_COMMIT_MESSAGE" value="220617 람다/스트림" />
   </component>
 </project>

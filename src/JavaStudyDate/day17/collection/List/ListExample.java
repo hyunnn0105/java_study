@@ -57,9 +57,9 @@ public class ListExample {
         boolean flag = sList.contains("두깝이");
         System.out.println("flag = " + flag);
         
-        // list의 루프처리
         Util.line();
 
+        // list의 루프처리
         for (int i = 0; i < sList.size(); i++) {
             System.out.println(sList.get(i));
         }
