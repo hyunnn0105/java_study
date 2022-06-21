@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6275447f-3840-4bd7-8e09-8d57af37c5b9" name="변경" comment="220617 람다/스트림">
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day19/Note220620.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day19/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day19/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day19/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day19/lambda/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day19/lambda/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day19/lambda/FilteringApple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day19/lambda/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day19/lambda/Quiz01.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day19/lambda/Quiz02.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day19/lambda/Sorting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day19/lambda/Summary.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudyDate/day17/collection/List/ListExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaStudyDate/day17/collection/List/ListExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudyDate/day17/music/ArtistController.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaStudyDate/day17/music/ArtistController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudyDate/day18/fileoutputStream/FileOutputExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaStudyDate/day18/fileoutputStream/FileOutputExample.java" afterDir="false" />
-    </list>
+    <list default="true" id="6275447f-3840-4bd7-8e09-8d57af37c5b9" name="변경" comment="220620 필터링 / 데이터베이스" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -202,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655457742934</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="220620 필터링 / 데이터베이스">
+      <created>1655716097130</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1655716097130</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -224,6 +214,7 @@
     <MESSAGE value="220615" />
     <MESSAGE value="220616 list map" />
     <MESSAGE value="220617 람다/스트림" />
-    <option name="LAST_COMMIT_MESSAGE" value="220617 람다/스트림" />
+    <MESSAGE value="220620 필터링 / 데이터베이스" />
+    <option name="LAST_COMMIT_MESSAGE" value="220620 필터링 / 데이터베이스" />
   </component>
 </project>
