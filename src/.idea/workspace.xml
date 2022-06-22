@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6275447f-3840-4bd7-8e09-8d57af37c5b9" name="변경" comment="workspace-1">
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day20_0621/Note0621.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day20_0621/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day20_0621/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day20_0621/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/day20_0621/img_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/chap08/Bj11047.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/chap08/Bj1541.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/chap08/Solbj11047.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/chap08/grid03_Bj1715.java" afterDir="false" />
+    <list default="true" id="6275447f-3840-4bd7-8e09-8d57af37c5b9" name="변경" comment="220621 자료구조 9강">
+      <change afterPath="$PROJECT_DIR$/JavaStudyDate/Note0622.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/chap08/grid04_Bj1931.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure/chap08/grid03_Bj1715.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure/chap08/grid03_Bj1715.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,16 +35,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/sl_test/java_study/java_study/src/JavaStudyDate/day17/collection/List",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "Errors"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/sl_test/java_study/java_study/src/JavaStudyDate/day17/collection/List&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="JavaStudyDate.day16.api.obj" />
@@ -62,13 +56,26 @@
       <recent name="JavaStudyDate.day16.api" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.datastructure.chap08.Bj1541">
-    <configuration name="JavaStudyDate.day18.comparetor.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaStudyDate.day18.comparetor.Main" />
+  <component name="RunManager" selected="애플리케이션.grid04_Bj1931">
+    <configuration name="Bj11047" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructure.chap08.Bj11047" />
       <module name="java_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaStudyDate.day18.comparetor.*" />
+          <option name="PATTERN" value="datastructure.chap08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Bj1541" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructure.chap08.Bj1541" />
+      <module name="java_study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datastructure.chap08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,21 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaStudyDate.day19.lambda.Sorting" />
-      <module name="java_study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaStudyDate.day19.lambda.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="datastructure.chap08.Bj11047" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datastructure.chap08.Bj11047" />
+    <configuration name="datastructure.chap08.grid03_Bj1715" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructure.chap08.grid03_Bj1715" />
       <module name="java_study" />
       <extension name="coverage">
         <pattern>
@@ -115,8 +109,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="datastructure.chap08.Bj1541" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datastructure.chap08.Bj1541" />
+    <configuration name="grid04_Bj1931" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructure.chap08.grid04_Bj1931" />
       <module name="java_study" />
       <extension name="coverage">
         <pattern>
@@ -130,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.grid04_Bj1931" />
+        <item itemvalue="애플리케이션.datastructure.chap08.grid03_Bj1715" />
         <item itemvalue="애플리케이션.datastructure.chap08.Bj1541" />
         <item itemvalue="애플리케이션.datastructure.chap08.Bj11047" />
         <item itemvalue="애플리케이션.Main" />
-        <item itemvalue="애플리케이션.Sorting" />
-        <item itemvalue="애플리케이션.JavaStudyDate.day18.comparetor.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -210,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655772354968</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="220621 자료구조 9강">
+      <created>1655803150168</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1655803150168</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -234,6 +235,7 @@
     <MESSAGE value="220617 람다/스트림" />
     <MESSAGE value="220620 필터링 / 데이터베이스" />
     <MESSAGE value="workspace-1" />
-    <option name="LAST_COMMIT_MESSAGE" value="workspace-1" />
+    <MESSAGE value="220621 자료구조 9강" />
+    <option name="LAST_COMMIT_MESSAGE" value="220621 자료구조 9강" />
   </component>
 </project>

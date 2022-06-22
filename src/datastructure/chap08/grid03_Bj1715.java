@@ -1,7 +1,6 @@
 package datastructure.chap08;
 
-import java.util.Deque;
-import java.util.LinkedList;
+import java.util.PriorityQueue;
 import java.util.Scanner;
 
 // 최소비교횟수 - 작은묶음 먼저합치는게 유리
@@ -15,32 +14,21 @@ public class grid03_Bj1715 {
 
         // 우선순위 Queue - 자동정렬기능
         // queue -> 정렬해서 call 한다음에 앞으로 넣기
-        Deque<Integer> cardList = new LinkedList<>();
+
+        PriorityQueue<Integer> cardList = new PriorityQueue<>();
         Scanner sc = new Scanner(System.in);
-//        int num1 = cardList.poll();
-//        int num2 = cardList.poll();
-        int n = 5;
+        int n = sc.nextInt();
 
         for (int i = 0; i < n; i++) {
-            int num = sc.nextInt();
-            cardList.add(num);
+            cardList.add(sc.nextInt());
         }
-        while (cardList.size() > 0){
-            int temp = 0;
-            int num1 = cardList.pollFirst();
-            int num2 = cardList.pollFirst();
-            temp = num1 + num2;
-            if (cardList.peekFirst() >= temp){
-                cardList.addFirst(temp);
-            } else {
-                cardList.addLast(temp);
-            }
-            System.out.println(cardList);
+        int total = 0;
+        while (cardList.size() != 1) {
+            int data1 = cardList.poll();
+            int data2 = cardList.poll();
+            total += data1 + data2;
+            cardList.offer(data1 + data2);
         }
-
-
-
-
-
+        System.out.println(total);
     }
 }
