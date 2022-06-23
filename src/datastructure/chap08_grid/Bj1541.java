@@ -1,4 +1,4 @@
-package datastructure.chap08;
+package datastructure.chap08_grid;
 /*
     양수, + , - , *()*
     괄호위치 => 이 식의 값을 최소

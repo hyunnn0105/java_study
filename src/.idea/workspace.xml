@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6275447f-3840-4bd7-8e09-8d57af37c5b9" name="변경" comment="220621 자료구조 9강">
-      <change afterPath="$PROJECT_DIR$/JavaStudyDate/Note0622.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/chap08/grid04_Bj1931.java" afterDir="false" />
+    <list default="true" id="6275447f-3840-4bd7-8e09-8d57af37c5b9" name="변경" comment="220622 그리디함수">
+      <change afterPath="$PROJECT_DIR$/JavaStudyDate/sql_dataStructure_Md/Note220623.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaStudyDate/sql_dataStructure_Md/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaStudyDate/sql_dataStructure_Md/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaStudyDate/sql_dataStructure_Md/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaStudyDate/sql_dataStructure_Md/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/chap10/binary/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/chap10/binary/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datastructure/chap08/grid03_Bj1715.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure/chap08/grid03_Bj1715.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaStudyDate/Note0622.md" beforeDir="false" afterPath="$PROJECT_DIR$/JavaStudyDate/sql_dataStructure_Md/Note0622.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure/chap08/Bj11047.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure/chap08_grid/Bj11047.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure/chap08/Bj1541.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure/chap08_grid/Bj1541.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure/chap08/Solbj11047.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure/chap08_grid/Solbj11047.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure/chap08/grid03_Bj1715.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure/chap08_grid/grid03_Bj1715.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure/chap08/grid04_Bj1931.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure/chap08_grid/grid04_Bj1931.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,17 +62,20 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\sl_test\java_study\java_study\src\JavaStudyDate\day17\collection\List" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\sl_test\java_study\java_study\src\JavaStudyDate\sqlmd" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="JavaStudyDate.day16.api" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.grid04_Bj1931">
+  <component name="RunManager" selected="애플리케이션.datastructure.chap08_grid.grid04_Bj1931">
     <configuration name="Bj11047" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datastructure.chap08.Bj11047" />
+      <option name="MAIN_CLASS_NAME" value="datastructure.chap08_grid.Bj11047" />
       <module name="java_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datastructure.chap08.*" />
+          <option name="PATTERN" value="datastructure.chap08_grid.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,11 +84,11 @@
       </method>
     </configuration>
     <configuration name="Bj1541" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datastructure.chap08.Bj1541" />
+      <option name="MAIN_CLASS_NAME" value="datastructure.chap08_grid.Bj1541" />
       <module name="java_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datastructure.chap08.*" />
+          <option name="PATTERN" value="datastructure.chap08_grid.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="datastructure.chap08.grid03_Bj1715" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datastructure.chap08.grid03_Bj1715" />
+    <configuration name="datastructure.chap08_grid.grid03_Bj1715" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructure.chap08_grid.grid03_Bj1715" />
       <module name="java_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datastructure.chap08.*" />
+          <option name="PATTERN" value="datastructure.chap08_grid.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +123,11 @@
       </method>
     </configuration>
     <configuration name="grid04_Bj1931" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datastructure.chap08.grid04_Bj1931" />
+      <option name="MAIN_CLASS_NAME" value="datastructure.chap08_grid.grid04_Bj1931" />
       <module name="java_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datastructure.chap08.*" />
+          <option name="PATTERN" value="datastructure.chap08_grid.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,10 +137,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.grid04_Bj1931" />
-        <item itemvalue="애플리케이션.datastructure.chap08.grid03_Bj1715" />
-        <item itemvalue="애플리케이션.datastructure.chap08.Bj1541" />
-        <item itemvalue="애플리케이션.datastructure.chap08.Bj11047" />
+        <item itemvalue="애플리케이션.datastructure.chap08_grid.grid04_Bj1931" />
+        <item itemvalue="애플리케이션.datastructure.chap08_grid.grid03_Bj1715" />
         <item itemvalue="애플리케이션.Main" />
       </list>
     </recent_temporary>
@@ -211,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655803150168</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="220622 그리디함수">
+      <created>1655889556855</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1655889556855</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -236,6 +254,7 @@
     <MESSAGE value="220620 필터링 / 데이터베이스" />
     <MESSAGE value="workspace-1" />
     <MESSAGE value="220621 자료구조 9강" />
-    <option name="LAST_COMMIT_MESSAGE" value="220621 자료구조 9강" />
+    <MESSAGE value="220622 그리디함수" />
+    <option name="LAST_COMMIT_MESSAGE" value="220622 그리디함수" />
   </component>
 </project>

@@ -1,4 +1,4 @@
-package datastructure.chap08;
+package datastructure.chap08_grid;
 
 import java.util.PriorityQueue;
 import java.util.Scanner;
