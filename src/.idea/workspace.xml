@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6275447f-3840-4bd7-8e09-8d57af37c5b9" name="변경" comment="220623 tree구조">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datastructure/chap10/binary/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure/chap10/binary/BinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datastructure/chap10/binary/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure/chap10/binary/Test.java" afterDir="false" />
-    </list>
+    <list default="true" id="6275447f-3840-4bd7-8e09-8d57af37c5b9" name="변경" comment="220623 tree구조" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -225,7 +221,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655976105185</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="220623 tree구조">
+      <created>1656062339733</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1656062339733</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
