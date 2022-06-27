@@ -1,7 +1,6 @@
 package Homework.day0619.lamdaa;
 
 import java.util.Arrays;
-import java.util.Comparator;
 
 public class LandaTest {
     public static void main(String[] args) {
