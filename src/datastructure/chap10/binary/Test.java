@@ -2,6 +2,9 @@ package datastructure.chap10.binary;
 
 import Utility.Util;
 
+import java.util.TreeMap;
+import java.util.TreeSet;
+
 public class Test {
 
     public static void main(String[] args) {
@@ -39,6 +42,50 @@ public class Test {
         System.out.println("최대"+tree.findMax());
         System.out.println("최소"+tree.findMin());
 
+        System.out.println("========================= 트리 출력 ===================== ");
 
+        tree.delete(82);
+        tree.delete(19);
+        tree.display();
+
+        // 이진트리의 문제점
+        // 1. 선형구조가 생성될수도 있다
+        // 2. 자식을 2명 이상 가질 수 없다
+        BinaryTree tree2 = new BinaryTree();
+        tree2.add(50);
+        tree2.add(40);
+        tree2.add(30);
+        tree2.add(20);
+
+        System.out.println("========== problem ==============");
+        tree2.display();
+
+        // AVL 트리??
+
+        // api tree
+        System.out.println("===================== api tree ==========================");
+        // treeset : set 형태로 tree를 구현
+        TreeSet<Integer> treeSet = new TreeSet<>();
+
+        treeSet.add(50);
+        treeSet.add(77);
+        treeSet.add(27);
+        treeSet.add(7);
+        treeSet.add(67);
+
+        // 자동으로 정렬됨
+        System.out.println(treeSet.toString());
+
+
+        // tree Map : map 형태로 트리를 구현
+        TreeMap<String, Integer> TreeMap = new TreeMap<>();
+        TreeMap.put("멍멍", 30);
+        TreeMap.put("야옹", 55);
+        TreeMap.put("쩩", 44);
+        TreeMap.put("꺼억", 24);
+
+        // key를 정렬함
+        System.out.println(TreeMap);
     }
+
 }

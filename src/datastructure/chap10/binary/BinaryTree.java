@@ -1,4 +1,7 @@
 package datastructure.chap10.binary;
+
+import java.util.Stack;
+
 class Node{
     private int data; // 트리에 저장할 데이터
     private Node leftChild; // 왼쪽자식
@@ -221,6 +224,7 @@ public class BinaryTree {
 
             }
         }
+
         // 삭제대상노드의 자식이 하나인 경우 - 오른쪽 자식인 경우 ===== 놓쳤다
         else if (current.getLeftChild() == null) {
             // 삭제 대상이 루트
@@ -237,6 +241,7 @@ public class BinaryTree {
 
             }
         }
+
         // ***삭제대상 노드의 자식이 둘인경우
         // 후보노드 찾기! : 삭제될 노드보다 큰 키값을 가진 노드 중 가장 작은 키 값을 갖는 노드
         else {
@@ -255,23 +260,51 @@ public class BinaryTree {
             candidate.setLeftChild(current.getLeftChild());
         }
 
-
+        return true;
     }
 
-    // 후보노드 찾기
-    // : 삭제될 노드보다 큰 키값을 가진 노드 중 가장 작은 키 값을 갖는 노드
-    private Node getCandidate(Node deleteNode){
+    // 후보노드 찾기 - 삭제노드가 부모의 오른쪽 자식인가 왼쪽 자식인가??
+    // : 삭제될 노드보다 큰 값을 가진 노드(오른쪽) 중 가장 작은 키 값을 갖는 노드(왼쪽)
+    /*
+        private Node getCandidate(Node deleteNode){
         // 삭제노드보다 큰 애들중ㅇㅔ서 가장 작은애들 찾기
+        // 3-2에서 사용
+        Node candidateParent = deleteNode;
         Node candidate = deleteNode.getRightChild();
 
         // 후보노드는 삭제노드의 오른쪽 자식중에 가장 왼쪽 끝에있는 자식
         while (candidate.getLeftChild() != null){
             candidate = candidate.getLeftChild();
         }
+        if ()
+        return candidate;
+    }
+     */
+
+
+    // 후보 노드 찾기
+    private Node getCandidate(Node deleteNode) {
+
+        Node candidateParent = deleteNode;
+        Node candidate = candidateParent.getRightChild();
+
+        // 삭제노드 오른쪽 자식의 왼쪽 자식 찾기
+        while (candidate.getLeftChild() != null) {
+            candidateParent = candidate;
+            candidate = candidate.getLeftChild();
+        }
+
+        // 후보노드가 삭제노드 왼쪽자식일 때
+        if (candidate != deleteNode.getRightChild()) {
+            candidateParent.setLeftChild(candidate.getRightChild());
+            candidate.setRightChild(deleteNode.getRightChild());
+        }
+
         return candidate;
     }
 
-    // 빈트리인지 확인 ** 수정하자
+
+    // 빈트리인지 확인 ** 수정하자 -> 수정 완료료
     public boolean isEmpty(){
         return root == null;
     }
@@ -281,7 +314,51 @@ public class BinaryTree {
         return root;
     }
 
+    //================= 트리 출력 ======================//
+    public void display() {
+        Stack<Node> globalStack = new Stack<>();
+        globalStack.push(root);
 
+        int blank = 32;
+        boolean isRowEmpty = false;
+
+        while (!isRowEmpty) {
+            Stack<Node> localStack = new Stack<>();
+            isRowEmpty = true;
+
+            for (int i = 0; i < blank; i++) {
+                System.out.print(" ");
+            }
+
+            while (!globalStack.isEmpty()) {
+                Node temp = globalStack.pop();
+
+                if (temp != null) {
+                    System.out.print(temp.getData());
+                    localStack.push(temp.getLeftChild());
+                    localStack.push(temp.getRightChild());
+
+                    if (temp.getLeftChild() != null || temp.getRightChild() != null) {
+                        isRowEmpty = false;
+                    }
+                } else {
+                    System.out.print("**");
+                    localStack.push(null);
+                    localStack.push(null);
+                }
+                for (int i = 0; i < blank * 2 - 2; i++) {
+                    System.out.print(" ");
+                }
+            }
+            System.out.println();
+            blank /= 2;
+
+            while (!localStack.isEmpty()) {
+                globalStack.push(localStack.pop());
+            }
+        }
+        System.out.println();
+    }
     
     
     

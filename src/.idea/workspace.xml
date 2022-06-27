@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6275447f-3840-4bd7-8e09-8d57af37c5b9" name="변경" comment="220623 tree구조" />
+    <list default="true" id="6275447f-3840-4bd7-8e09-8d57af37c5b9" name="변경" comment="220627-1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure/chap10/binary/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure/chap10/binary/BinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure/chap10/binary/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure/chap10/binary/Test.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -228,7 +232,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656062339733</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="220627-1">
+      <created>1656290546388</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1656290546388</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -255,6 +266,7 @@
     <MESSAGE value="220621 자료구조 9강" />
     <MESSAGE value="220622 그리디함수" />
     <MESSAGE value="220623 tree구조" />
-    <option name="LAST_COMMIT_MESSAGE" value="220623 tree구조" />
+    <MESSAGE value="220627-1" />
+    <option name="LAST_COMMIT_MESSAGE" value="220627-1" />
   </component>
 </project>
