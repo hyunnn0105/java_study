@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f606e13a-7966-43b2-8d14-8ecb329904cc" name="Changes" comment="220628 home">
-      <change afterPath="$PROJECT_DIR$/src/Homework/files/Test2.java" afterDir="false" />
+    <list default="true" id="f606e13a-7966-43b2-8d14-8ecb329904cc" name="Changes" comment="220629 home">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework/files/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework/files/Test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework/files/모던자바 과제물 3번문제.docx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework/files/모던자바 과제물 3번문제.docx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -326,7 +326,21 @@
       <option name="project" value="LOCAL" />
       <updated>1656345081973</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="220629 home">
+      <created>1656518325761</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1656518325776</updated>
+    </task>
+    <task id="LOCAL-00025" summary="220629 home">
+      <created>1656518361619</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1656518361619</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -375,7 +389,8 @@
     <MESSAGE value="220610" />
     <MESSAGE value="220621 home" />
     <MESSAGE value="220628 home" />
-    <option name="LAST_COMMIT_MESSAGE" value="220628 home" />
+    <MESSAGE value="220629 home" />
+    <option name="LAST_COMMIT_MESSAGE" value="220629 home" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
