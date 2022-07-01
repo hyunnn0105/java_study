@@ -1,9 +1,10 @@
-package stockjoin;
+package javateamproject.project_new.src.stockjoin;
 
 import java.util.Scanner;
 
 public class StockMenu {
 
+    /*
 
     private Scanner sc = new Scanner(System.in);
     private Account ac = new Account();
@@ -233,6 +234,8 @@ public class StockMenu {
         System.out.printf(msg);
         return sc.nextInt();
     }
+
+     */
 
 
 } // class end

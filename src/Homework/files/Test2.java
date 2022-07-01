@@ -25,6 +25,7 @@ public class Test2 {
         }
         reader.close();
 
+        /*
         // stream
         Stream<String> stream = strArr.stream();
 
@@ -32,6 +33,8 @@ public class Test2 {
                 .collect(Collectors.toList());
 
         System.out.println(integerList);
+
+         */
     }
 
 

@@ -1,4 +1,6 @@
-package stockjoin;
+package javateamproject.project_new.src.stockjoin;
+
+import javateamproject.project_new.src.stockjoin.StockMenu;
 
 public class test {
 
@@ -6,8 +8,11 @@ public class test {
 
         StockMenu sM = new StockMenu();
 
+        /*
         sM.StockMenu();
 
+
+         */
 
     }
 }
