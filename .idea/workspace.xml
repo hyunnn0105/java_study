@@ -5,9 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f606e13a-7966-43b2-8d14-8ecb329904cc" name="Changes" comment="220628 home">
-      <change afterPath="$PROJECT_DIR$/src/Homework/files/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudyDate/day220704/Note220704.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastructure/chap12/Bj2023.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructure/chap12/Bj2023.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javateamproject/project_new/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javateamproject/project_new/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javateamproject/project_new/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javateamproject/project_new/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javateamproject/project_new/project.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javateamproject/project_new/src/stockjoin/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javateamproject/project_new/src/stockjoin/Broadcast.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javateamproject/project_new/src/stockjoin/Exchange.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javateamproject/project_new/src/stockjoin/ExchangeStock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javateamproject/project_new/src/stockjoin/News.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javateamproject/project_new/src/stockjoin/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javateamproject/project_new/src/stockjoin/Stock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javateamproject/project_new/src/stockjoin/StockMenu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javateamproject/project_new/src/stockjoin/test.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,23 +58,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/intellij/IdeaProjects/java_study&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;프로젝트&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/sl_test/java_study",
+    "project.structure.last.edited": "프로젝트",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/새 스크래치 파일&quot;: [
-      &quot;Markdown&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/새 스크래치 파일": [
+      "Markdown"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="coding01.chap4" />
@@ -80,13 +97,13 @@
       <recent name="coding01.cap1" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.Test2">
-    <configuration name="Card2Bj2164" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datastructure.chap5.queue.solution.Card2Bj2164" />
+  <component name="RunManager" selected="애플리케이션.Bj2023">
+    <configuration name="Bj2023" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructure.chap12.Bj2023" />
       <module name="java_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datastructure.chap5.queue.solution.*" />
+          <option name="PATTERN" value="datastructure.chap12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.Bj2023" />
         <item itemvalue="애플리케이션.Test2" />
         <item itemvalue="애플리케이션.test" />
         <item itemvalue="애플리케이션.LandaTest" />
         <item itemvalue="애플리케이션.grid03_Bj1715" />
-        <item itemvalue="애플리케이션.Card2Bj2164" />
       </list>
     </recent_temporary>
   </component>

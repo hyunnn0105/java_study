@@ -1,7 +1,10 @@
 package datastructure.chap12;
+
+import java.util.Scanner;
+
+// 신기한 소수
 // https://www.acmicpc.net/problem/2023
-public class Bj2023 {
-    /*
+ /*
      1. 소수는 약수가 1과 자기 자신인 수를 말합니다. 예를 들어 4는 약수가 1, 2, 4이므로 소수가 아니고
         7은 약수가 1과 7이므로 소수입니다.
 
@@ -14,7 +17,7 @@ public class Bj2023 {
          자리수를 늘려가며 매칭하면서 2자리수를 만들어 해당수가 소수인지 확인하고
          맞으면 자리수를 또 늘려서 해당수가 소수인지 확인하는 *깊이 우선탐색*을 실행합니다.
          총 4자리까지 수행한 결과 소수라면 해당 수는 신기한 소수로 판단하는 방식입니다.
-            grape로 보자!
+            graph로 보자!
 
       4. 예를들면  1의 자리 소수 2부터 출발해서 뒤에 홀수를 붙여봅니다.
          우선 21은 소수가 아니므로 DFS를 종료하고 23은 소수이므로 DFS를 더 진행합니다.
@@ -24,7 +27,7 @@ public class Bj2023 {
 
       5. 이런식으로 DFS 재귀레벨이 4가 될때가지 DFS를 반복합니다.
 
-
+        맨 앞자리 무조건 소수
          2    1    1    1
          3    3    3    3
          5    5    5    5
@@ -32,4 +35,61 @@ public class Bj2023 {
               9    9    9
 
  */
+public class Bj2023 {
+    static int N;
+    public static void main(String[] args) {
+
+//        System.out.println(isPrime(7));
+        Scanner sc = new Scanner(System.in);
+
+        N = sc.nextInt();
+        sc.close();
+
+        DFS(2, 1);
+        DFS(3, 1);
+        DFS(5, 1);
+        DFS(7, 1);
+
+
+    }
+
+    /**
+     * DFS 매서드
+     * @param number - 소수 판별할 숫자
+     * @return level - 재귀깊이레벨
+     */
+    static void DFS(int number, int level){
+
+        // 재귀 탈출문
+        if (level == N){
+            // level이 4이고 소수라면 출력해라
+            if (isPrime(number)){
+                System.out.println(number);
+            }
+            return;
+        }
+
+
+        // 자릿수가 올라갈수록 홀수들만 뒤에 이어 붙여서 DFS 반속 수행
+//        DFS(2,4);
+        for (int i = 1; i < 10; i+=2) {
+            int newNumber = number * 10 + i; // 자릿수 증가
+            if (isPrime(newNumber)){ // 소수라면 DFS 추가 진행
+                // DFS로 더 진행해라
+                DFS(newNumber, level + 1);
+                
+            }
+        }
+        
+    }
+    
+
+    // 어떤 숫자가 소수인지 판별하는 메서드
+    static boolean isPrime(int num) {
+        for (int i = 2; i < num; i++) {
+            if (num % i == 0) return false;
+        }
+        return true;
+    }
+
 }
