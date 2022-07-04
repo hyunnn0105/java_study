@@ -45,6 +45,7 @@ public class Bj2023 {
         N = sc.nextInt();
         sc.close();
 
+        // 소수 시작지점? 지정
         DFS(2, 1);
         DFS(3, 1);
         DFS(5, 1);
