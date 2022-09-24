@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f606e13a-7966-43b2-8d14-8ecb329904cc" name="Changes" comment="220704 - git" />
+    <list default="true" id="f606e13a-7966-43b2-8d14-8ecb329904cc" name="Changes" comment="220704 - readMe">
+      <change afterPath="$PROJECT_DIR$/src/JavaStudyDate/day01/NoteDay01.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -168,7 +172,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652854756061</updated>
-      <workItem from="1664028273273" duration="2848000" />
+      <workItem from="1664028273273" duration="4651000" />
     </task>
     <task id="LOCAL-00001" summary="Changes - 반가워요 추가">
       <created>1652857446203</created>
@@ -373,7 +377,21 @@
       <option name="project" value="LOCAL" />
       <updated>1664030817262</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="220704 - readMe link">
+      <created>1664031280713</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1664031280713</updated>
+    </task>
+    <task id="LOCAL-00031" summary="220704 - readMe">
+      <created>1664031494191</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1664031494191</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -403,8 +421,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="220518 varscope 및 블록레벨스코프 정리 + 단축어" />
-    <MESSAGE value="220519 java및 백준알고리즘" />
     <MESSAGE value="220519" />
     <MESSAGE value="220520 반복문" />
     <MESSAGE value="220524 cap04 + 배열" />
@@ -428,7 +444,9 @@
     <MESSAGE value="220704 - readMe 수정" />
     <MESSAGE value="220704 - git ignore" />
     <MESSAGE value="220704 - git" />
-    <option name="LAST_COMMIT_MESSAGE" value="220704 - git" />
+    <MESSAGE value="220704 - readMe link" />
+    <MESSAGE value="220704 - readMe" />
+    <option name="LAST_COMMIT_MESSAGE" value="220704 - readMe" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
