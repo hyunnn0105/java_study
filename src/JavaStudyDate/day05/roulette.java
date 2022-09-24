@@ -10,7 +10,7 @@ public class roulette {
             // 게임인원 등록 - 입력
             System.out.println("게임 인원을 2~4 사이로 등록하세요");
             gameMember = sc.nextInt();
-            if ( gameMember >= 2 && gameMember <= 4) {
+            if (gameMember >= 2 && gameMember <= 4) {
                 System.out.println(gameMember + "인원수를 입력했습니다.");
             } else {
                 System.out.println("인원수를 다시 입력해주세요");
@@ -68,5 +68,6 @@ public class roulette {
 
      */
 
+        }
     }
 }

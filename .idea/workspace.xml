@@ -4,21 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f606e13a-7966-43b2-8d14-8ecb329904cc" name="Changes" comment="220704 - 파일위치 수정">
-      <change afterPath="$PROJECT_DIR$/src/codingtest/Baekjoon/chap03Loop/Bj10951.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codingtest/Baekjoon/chap03Loop/Bj10952.java" afterDir="false" />
+    <list default="true" id="f606e13a-7966-43b2-8d14-8ecb329904cc" name="Changes" comment="220704 - readMe 수정">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_study/datastructure/Note220615.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_study/datastructure/chap12/Bj13023.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study/datastructure/chap12/Bj13023.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_study/datastructure/chap12/Bj2023.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study/datastructure/chap12/Bj2023.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/datastructure/Note220615.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructure/chap07/Note220615.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/datastructure/chap12/Bj13023.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructure/chap12/Bj13023.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/datastructure/chap12/Bj2023.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructure/chap12/Bj2023.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study/JavaStudyDate/day05/roulette.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study/JavaStudyDate/day05/roulette.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,10 +47,16 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Project.color": "022f2a",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/sl_test/trade",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/intellij/java_study",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "project.structure.last.edited": "프로젝트",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -92,7 +91,7 @@
       <recent name="coding01.cap1" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.Bj10951">
+  <component name="RunManager" selected="애플리케이션.roulette">
     <configuration name="Bj10951" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="codingtest.Baekjoon.chap03Loop.Bj10951" />
       <module name="java_study" />
@@ -145,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homework.test" />
+    <configuration name="roulette" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaStudyDate.day05.roulette" />
       <module name="java_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Homework.*" />
+          <option name="PATTERN" value="JavaStudyDate.day05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.roulette" />
         <item itemvalue="애플리케이션.Bj10951" />
         <item itemvalue="애플리케이션.Bj10952" />
         <item itemvalue="애플리케이션.Bj2023" />
         <item itemvalue="애플리케이션.Test2" />
-        <item itemvalue="애플리케이션.test" />
       </list>
     </recent_temporary>
   </component>
@@ -176,6 +175,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652854756061</updated>
+      <workItem from="1664028273273" duration="2065000" />
     </task>
     <task id="LOCAL-00001" summary="Changes - 반가워요 추가">
       <created>1652857446203</created>
@@ -359,8 +359,18 @@
       <option name="project" value="LOCAL" />
       <updated>1656920294666</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="220704 - readMe 수정">
+      <created>1664030337321</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1664030337321</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -409,7 +419,8 @@
     <MESSAGE value="220621 home" />
     <MESSAGE value="220628 home" />
     <MESSAGE value="220704 - 파일위치 수정" />
-    <option name="LAST_COMMIT_MESSAGE" value="220704 - 파일위치 수정" />
+    <MESSAGE value="220704 - readMe 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="220704 - readMe 수정" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
