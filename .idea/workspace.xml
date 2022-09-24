@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f606e13a-7966-43b2-8d14-8ecb329904cc" name="Changes" comment="220704 - readMe 수정">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_study/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_study/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_study/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_study/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_study/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_study/JavaStudyDate/day05/roulette.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study/JavaStudyDate/day05/roulette.class" afterDir="false" />
-    </list>
+    <list default="true" id="f606e13a-7966-43b2-8d14-8ecb329904cc" name="Changes" comment="220704 - git ignore" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -175,7 +167,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652854756061</updated>
-      <workItem from="1664028273273" duration="2065000" />
+      <workItem from="1664028273273" duration="2480000" />
     </task>
     <task id="LOCAL-00001" summary="Changes - 반가워요 추가">
       <created>1652857446203</created>
@@ -366,7 +358,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664030337321</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="220704 - git ignore">
+      <created>1664030624463</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1664030624463</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -420,7 +419,8 @@
     <MESSAGE value="220628 home" />
     <MESSAGE value="220704 - 파일위치 수정" />
     <MESSAGE value="220704 - readMe 수정" />
-    <option name="LAST_COMMIT_MESSAGE" value="220704 - readMe 수정" />
+    <MESSAGE value="220704 - git ignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="220704 - git ignore" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
