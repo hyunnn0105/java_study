@@ -41,8 +41,7 @@
 1. 배열
 2. 리스트
 
-### [day10](https://github.com/hyunnn0105/java_study/blob/master/src/JavaStudyDate/day10/Note220531.md
-)
+### [day10](https://github.com/hyunnn0105/java_study/blob/master/src/JavaStudyDate/day10/Note220531.md)
 1. setter/getter
 
 ### [day11](https://github.com/hyunnn0105/java_study/blob/master/src/JavaStudyDate/day11/Note220608.md)
