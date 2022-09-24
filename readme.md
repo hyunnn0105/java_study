@@ -12,7 +12,7 @@
 5. 스캐너   
 6. 포멧문자형식   
 
-### [day03]()
+### [day03](https://github.com/hyunnn0105/java_study/blob/master/src/JavaStudyDate/day03/Note220520.md)
 1. for
 2. while
 3. switch
