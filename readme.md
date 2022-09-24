@@ -1,5 +1,5 @@
 # JAVA STUDY DATE
-## [day01]()
+## [day01](https://github.com/hyunnn0105/java_study/blob/master/src/JavaStudyDate/day01/NoteDay01.md)
 1. 클래스
 2. 변수
 3. 블록레벨스코프
