@@ -6,12 +6,12 @@
 4. 블록레벨스코프
 
 ### day02
-[1. 데이터 타입]()
-2. 비트연산
-3. 캐스팅
-4. 조건 연산자
-5. 스캐너
-6. 포멧문자형식
+[1. 데이터 타입](https://github.com/hyunnn0105/java_study/blob/master/src/JavaStudyDate/day2/Note220519.md)   
+2. 비트연산   
+3. 캐스팅   
+4. 조건 연산자   
+5. 스캐너   
+6. 포멧문자형식   
 
 ### day03
 1. for
