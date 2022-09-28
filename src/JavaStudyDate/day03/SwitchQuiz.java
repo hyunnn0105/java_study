@@ -9,6 +9,7 @@ public class SwitchQuiz {
         System.out.println("[사원, 대리, 과장, 차장, 부장]");
         System.out.printf("> ");
         String level = sc.next();
+        sc.close();
         
         switch (level) {
             case "사원" :

@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f606e13a-7966-43b2-8d14-8ecb329904cc" name="Changes" comment="220704 - readMe day1 update">
-      <change afterPath="$PROJECT_DIR$/src/JavaStudyDate/day2/img.png" afterDir="false" />
+    <list default="true" id="f606e13a-7966-43b2-8d14-8ecb329904cc" name="Changes" comment="220704 - readMe day2 update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaStudyDate/day2/Note220519.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaStudyDate/day2/Note220519.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaStudyDate/day03/Note220520.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaStudyDate/day03/Note220520.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaStudyDate/day03/SwitchQuiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaStudyDate/day03/SwitchQuiz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaStudyDate/day05/roulette.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaStudyDate/day05/roulette.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homework.files.Test2" />
+    <configuration name="SwitchQuiz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaStudyDate.day03.SwitchQuiz" />
       <module name="java_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Homework.files.*" />
+          <option name="PATTERN" value="JavaStudyDate.day03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,10 +158,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="애플리케이션.roulette" />
+        <item itemvalue="애플리케이션.SwitchQuiz" />
         <item itemvalue="애플리케이션.Bj10951" />
         <item itemvalue="애플리케이션.Bj10952" />
         <item itemvalue="애플리케이션.Bj2023" />
-        <item itemvalue="애플리케이션.Test2" />
       </list>
     </recent_temporary>
   </component>
@@ -177,6 +177,7 @@
       <workItem from="1664091527185" duration="2883000" />
       <workItem from="1664099094940" duration="279000" />
       <workItem from="1664116539381" duration="1071000" />
+      <workItem from="1664358297056" duration="5758000" />
     </task>
     <task id="LOCAL-00001" summary="Changes - 반가워요 추가">
       <created>1652857446203</created>
@@ -402,7 +403,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664033481238</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="220704 - readMe day2 update">
+      <created>1664358990985</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1664358990985</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -432,7 +440,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="220520 반복문" />
     <MESSAGE value="220524 cap04 + 배열" />
     <MESSAGE value="220525 메서드" />
     <MESSAGE value="220526 메서드+객체+클래스" />
@@ -457,7 +464,8 @@
     <MESSAGE value="220704 - readMe link" />
     <MESSAGE value="220704 - readMe" />
     <MESSAGE value="220704 - readMe day1 update" />
-    <option name="LAST_COMMIT_MESSAGE" value="220704 - readMe day1 update" />
+    <MESSAGE value="220704 - readMe day2 update" />
+    <option name="LAST_COMMIT_MESSAGE" value="220704 - readMe day2 update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
