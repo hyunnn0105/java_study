@@ -20,15 +20,34 @@ public class roulette {
             }
         }
 
-            // 플레이어 이름등록
-            String[] playerName = new String[gameMember];
-            for (int i = 1; i < playerName.length + 1; i++) {
-                System.out.println(i + "번째 player 이름을 입력하세요");
-                String name = sc.next();
-                playerName[i] = name;
-            }
+        // 플레이어 이름등록
+        String[] playerName = new String[gameMember];
+        for (int i = 0; i < gameMember; i++) {
+            System.out.println((i+1) + "번째 player 이름을 입력하세요");
+            String name = sc.next();
+            playerName[i] = name;
+        }
 
-        System.out.println(Arrays.toString(playerName) + "참가 !");
+        System.out.println(Arrays.toString(playerName) + "참가 !\n");
+
+        System.out.print("실탄 개수 (1 ~ 5개) ==> ");
+        int bullet = sc.nextInt();
+        sc.nextLine();
+
+        boolean[] revolver = new boolean[6];
+
+
+        System.out.println( bullet + "개의 실탄을 선택하셨습니다.");
+
+        // 랜덤으로 숫자넣기
+        int success = 0; // 성공적으로 장전되었을 때의 카운트
+        while (success < bullet) {
+            int position = (int) (Math.random() * revolver.length);
+            if (!revolver[position]) {
+                revolver[position] = true;
+                success++;
+            }
+        }
 
 
 

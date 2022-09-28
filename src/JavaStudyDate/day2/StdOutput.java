@@ -7,7 +7,7 @@ public class StdOutput {
 
         System.out.print(dog);
         System.out.print(cat);
-        //println 안에는 \b기능이 들어가있어서 강제 줄 변경
+        //println 안에는 \n기능이 들어가있어서 강제 줄 변경
 
         int month = 7;
         int day = 17;
