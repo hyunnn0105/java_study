@@ -19,8 +19,8 @@
 4. while
 
 ## [day04](https://github.com/hyunnn0105/java_study/blob/master/src/JavaStudyDate/day04/Note220523.md)
-1. 배열
-- 복사/삭제/등록/찾기
+1. 배열 
+복사/삭제/등록/찾기
 
 ## [day05](https://github.com/hyunnn0105/java_study/blob/master/src/JavaStudyDate/day05/Note220524.md)
 1. 다차원 배열

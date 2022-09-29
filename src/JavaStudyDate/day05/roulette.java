@@ -48,7 +48,63 @@ public class roulette {
                 success++;
             }
         }
+        // == 핵심게임조작 ==
+        // 선 턴 플레이어 랜덤으로 결정
+        System.out.println("\n 줄 받았습니다, %s");
+        /*
+         한 턴동안 할일
+        1. 무작위 탄창 회전
+        탄창을 회전시켜 무작위로 격발구 위치 결정
+        랜덤 인덱스 생성(0~5), 총알이 있는 위치(ture)가 결정되면 죽음
+        2. 격발처리
+         3-1. 사망처리
+        4. 턴 조정
+        5. 게임종료처리
+        */
+        // 격발위치 결정 - 랜덤
 
+        int firstPos = (int) (Math.random()*magazine.length);
+        System.out.printf("\n{%s님의 턴[] 탄창을 회전\n}");
+
+        // 사망
+        if (magazine[firstPos]) { //사망
+            //사망자를 배열에서 제거 - 배열삭제알고리즘
+            for (int i = 0; i < player.length-1; i++) {
+                player[i] = player[i+1];
+            }
+            //하나작은배열
+            String[] temp = new String[--playerNum];
+            player = temp;
+            // 격발된 총알처리
+            magazine[firstPos] = false;
+            //총알 갯수 줄여줌
+            bulletNum--;
+
+            //게임종료여부판단
+            // 조건1.남은 p한묭
+            if (playerNum==1){
+                System.out.println("최후생존자이름 : 배열[0]"); // 앞으로 땡겨서 0
+                break;
+            } else if (bulletNum==0) {
+                //총알이 전부 소진
+                System.out.println("생존자");
+                break;
+            } else {
+                // 게임 계속진행
+                // 마지막 p가 죽은경우 0으로
+                // 길이는 24번이 이미 줄였음?
+            }
+
+        } else { // 생존
+            System.out.println("살았다");
+            // 턴 조정 - 지금 턴이 마지막인지 확인
+            // 힌명 죽었냐
+            if (turn == player.length-1) {
+                turn = 0;
+            } else {
+                turn++;
+            }
+        }
 
 
 

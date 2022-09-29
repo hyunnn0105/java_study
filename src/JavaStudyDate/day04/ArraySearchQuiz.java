@@ -27,27 +27,9 @@ public class ArraySearchQuiz {
                     break;
                 }
             }
-            /*
-            if (index != -1) {
 
-                //이름변경
-                System.out.println(member[index] + "의 이름을 변경합니다.");
-                System.out.printf(">> ");
-                String change = sc.nextLine();
-                member[index] = change;
-                System.out.println("변경완료!");
-                System.out.println("변경 후 정보 : " + Arrays.toString(member));
-                break;
-
-            } else {
-                boolean notMember = index != -1; // (t/f) - -1이 아닌가요? 아니요 -1입니다?
-                System.out.println(target + "는 없는 이름입니다.");
-                continue; // 이거 오ㅐ 안됨
-            }
-            */
-
-            //수정 여부 판단
-            if (index != -1) {
+            //index 존재 확인 -> 수정 여부 판단
+            if (index > -1) {
                 System.out.printf("%s의 별명을 변경합니다.\n", target);
                 System.out.printf(">> ");
                 String newName = sc.next();
